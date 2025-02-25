@@ -1,0 +1,7 @@
+{
+    organism: "Mouse"
+    genome: ["GRCm39"]
+    input_fasta: ["Mus_musculus.GRCm39.dna.toplevel.fa"]
+    input_gtf: ["Mus_musculus.GRCm39.112.gtf.filtered"]
+    non_nuclear_contigs: ["MT"]
+}

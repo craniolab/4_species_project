@@ -1,0 +1,8 @@
+Removing underscores (_) in fasta
+cat GCF_902713615.1_sScyCan1.1_genomic.fna |sed '/^>/ s/_//' > GCF_902713615.1_sScyCan1.1_genomic.corrected.fna
+
+
+shark gtf was not populated
+had to filter it in R
+
+See notebook

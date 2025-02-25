@@ -1,0 +1,7 @@
+{
+    organism: "Chicken"
+    genome: ["GRCg6a"]
+    input_fasta: ["Gallus_gallus.GRCg6a.dna.toplevel.fa"]
+    input_gtf: ["Gallus_gallus.GRCg6a.106.gtf.filtered"]
+    non_nuclear_contigs: ["MT"]
+}

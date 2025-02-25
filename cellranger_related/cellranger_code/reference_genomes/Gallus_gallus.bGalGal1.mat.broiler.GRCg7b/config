@@ -1,0 +1,7 @@
+{
+    organism: "Chicken"
+    genome: ["GRCg7b"]
+    input_fasta: ["Gallus_gallus.bGalGal1.mat.broiler.GRCg7b.dna.toplevel.fa"]
+    input_gtf: ["Gallus_gallus.bGalGal1.mat.broiler.GRCg7b.112.gtf.filtered"]
+    non_nuclear_contigs: ["MT"]
+}

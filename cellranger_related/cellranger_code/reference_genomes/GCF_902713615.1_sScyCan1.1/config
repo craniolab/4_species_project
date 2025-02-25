@@ -1,0 +1,7 @@
+{
+    organism: "Catshark"
+    genome: ["sSCYcan1_1"]
+    input_fasta: ["GCF_902713615.1_sScyCan1.1_genomic.corrected.fna"]
+    input_gtf: ["GCF_902713615.1_sScyCan1.1_genomic.filtered.gtf"]
+    non_nuclear_contigs: ["NC001950.1"]
+}

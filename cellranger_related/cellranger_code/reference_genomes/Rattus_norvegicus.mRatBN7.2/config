@@ -1,0 +1,7 @@
+{
+    organism: "Rat"
+    genome: ["mRatBN7"]
+    input_fasta: ["Rattus_norvegicus.mRatBN7.2.dna.toplevel.fa"]
+    input_gtf: ["Rattus_norvegicus.mRatBN7.2.112.gtf.filtered"]
+    non_nuclear_contigs: ["MT"]
+}
