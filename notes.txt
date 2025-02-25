@@ -1,0 +1,15 @@
+install specific github commit
+remotes::install_github("satijalab/seurat-wrappers@73466e361ee759c6b1add58faa3bc4e7a2ee5753") 
+
+
+Sys.setenv(GITHUB_PAT="/home/jupyter-seton/micromamba/envs/seurat_v5/bin:/opt/tljh/user/condabin:/opt/tljh/user/bin:/opt/tljh/user/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/usr/sbin:/usr/bin:/snap/bin"
+
+important package for compiling
+micromamba install pkg-config
+
+python -m ipykernel install --user --name myenv --display-name myenv
+
+IRkernel::installspec(name = 'myenv', displayname = 'myenv')
+
+to save plotly figures, have to add the kaleido folder to path
+os.environ["PATH"] += os.pathsep + "/home/jupyter-seton/micromamba/envs/cellrank/bin"
