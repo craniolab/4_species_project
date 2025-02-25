@@ -1,0 +1,2 @@
+Had to add this to make webpdf exports work in jupyterlab
+echo 'c.WebPDFExporter.disable_sandbox = True' > ~/.jupyter/jupyter_nbconvert_config.py && touch ~/.jupyter/jupyter_lab_config.py && echo 'c.WebPDFExporter.disable_sandbox = True' >> ~/.jupyter/jupyter_lab_config.py
