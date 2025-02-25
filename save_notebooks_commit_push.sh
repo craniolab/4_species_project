@@ -6,3 +6,7 @@ for filename in *.ipynb; do
 	jupyter nbconvert $filename --to notebook \
 		--ClearOutputPreprocessor.enabled=True --output ../notebooks_github/$filename
 done
+cd ..
+git add -A
+git commit -m "save notebooks and commit"
+git push
