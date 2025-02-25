@@ -1,0 +1,41 @@
+#!/bin/sh 
+#SBATCH --job-name=cellranger 
+#SBATCH --partition=highmem2new
+#SBATCH --nodes=1 
+#SBATCH --time=10-0
+#SBATCH --mem=250G 
+#SBATCH --ntasks=16 
+#SBATCH --error=job.%J.err 
+#SBATCH --out=job.%J.out 
+/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE8 \
+																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/Rattus_norvegicus.mRatBN7.2/mRatBN7.2/ \
+																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23120362-Z01-F002/HHG3WDSXC/outs/fastq_path \
+																						  --sample=RE8 \
+																						  --localcores=16 \
+																						  --localmem=248
+
+/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE9 \
+																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/Rattus_norvegicus.mRatBN7.2/mRatBN7.2/ \
+																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23120362-Z01-F002/HHG3WDSXC/outs/fastq_path \
+																						  --sample=RE9 \
+																						  --localcores=16 \
+																						  --localmem=248
+/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE10 \
+																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/Rattus_norvegicus.mRatBN7.2/mRatBN7.2/ \
+																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23120362-Z01-F002/HHG3WDSXC/outs/fastq_path \
+																						  --sample=RE10 \
+																						  --localcores=16 \
+																						  --localmem=248
+/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE11 \
+																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/Rattus_norvegicus.mRatBN7.2/mRatBN7.2/ \
+																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23120362-Z01-F002/HHG3WDSXC/outs/fastq_path \
+																						  --sample=RE11 \
+																						  --localcores=16 \
+																						  --localmem=248
+/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE12 \
+																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/Rattus_norvegicus.mRatBN7.2/mRatBN7.2/ \
+																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23120362-Z01-F002/HHG3WDSXC/outs/fastq_path \
+																						  --sample=RE12 \
+																						  --localcores=16 \
+																						  --localmem=248
+

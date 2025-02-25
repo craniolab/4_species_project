@@ -1,0 +1,34 @@
+#!/bin/sh 
+#SBATCH --job-name=cellranger 
+#SBATCH --partition=highmem2new
+#SBATCH --nodes=1 
+#SBATCH --time=4-0 
+#SBATCH --mem=250G 
+#SBATCH --ntasks=16 
+#SBATCH --error=job.%J.err 
+#SBATCH --out=job.%J.out 
+
+# /groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-atac-2.1.0/bin/cellranger-atac count --id=SE8_9_FKDL230197208-1a \
+#                                                                                        --reference=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-atac-2.1.0/reference_genomes/GCF_902713615.1_sScyCan1.1/sSCYcan1_1 \
+#                                                                                        --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23073527-Z01-F003/01.RawData/A_SE8_9 \
+#                                                                                        --sample=FKDL230197208-1a \
+#                                                                                        --localcores=16 \
+#                                                                                        --localmem=248
+# /groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-atac-2.1.0/bin/cellranger-atac count --id=SE10_FKDL230197209-1a \
+#                                                                                        --reference=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-atac-2.1.0/reference_genomes/GCF_902713615.1_sScyCan1.1/sSCYcan1_1 \
+#                                                                                        --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23073527-Z01-F003/01.RawData/A_SE10 \
+#                                                                                        --sample=FKDL230197209-1a \
+#                                                                                        --localcores=16 \
+#                                                                                        --localmem=248
+# /groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-atac-2.1.0/bin/cellranger-atac count --id=SE11_FKDL230197210-1a \
+#                                                                                        --reference=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-atac-2.1.0/reference_genomes/GCF_902713615.1_sScyCan1.1/sSCYcan1_1 \
+#                                                                                        --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23073527-Z01-F003/01.RawData/A_SE11 \
+#                                                                                        --sample=FKDL230197210-1a \
+#                                                                                        --localcores=16 \
+#                                                                                        --localmem=248
+/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-atac-2.1.0/bin/cellranger-atac count --id=SE12_FKDL230197211-1a \
+                                                                                       --reference=/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-atac-2.1.0/reference_genomes/GCF_902713615.1_sScyCan1.1/sSCYcan1_1 \
+                                                                                       --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/IMPORTANT_DATA_DONT_DELETE/X204SC23073527-Z01-F003/01.RawData/A_SE12 \
+                                                                                       --sample=FKDL230197211-1a \
+                                                                                       --localcores=16 \
+                                                                                       --localmem=248
