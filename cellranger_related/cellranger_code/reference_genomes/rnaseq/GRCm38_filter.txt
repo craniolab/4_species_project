@@ -1,0 +1,3 @@
+head -n 5 Mus_musculus.GRCm38.102.gtf > Mus_musculus.GRCm38.102.filtered.gtf
+cat Mus_musculus.GRCm38.102.gtf |grep -e protein_coding -e lncRNA -e pseudogene >> Mu
+s_musculus.GRCm38.102.filtered.gtf

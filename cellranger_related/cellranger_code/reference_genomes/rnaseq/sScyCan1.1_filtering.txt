@@ -1,0 +1,4 @@
+shark gtf was not populated
+had to filter it in R
+
+See notebook

@@ -1,0 +1,3 @@
+head -n 5 Rattus_norvegicus.mRatBN7.2.112.gtf > Rattus_norvegicus.mRatBN7.2.112.filtered.gtf
+cat Rattus_norvegicus.mRatBN7.2.112.gtf |grep -e protein_coding -e lncRNA -e pseudogene >> Rattus_norvegicus.mRatBN7.2.112.filtered.gtf
+

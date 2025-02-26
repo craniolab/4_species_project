@@ -1,0 +1,4 @@
+head -n 5 Gallus_gallus.GRCg6a.106.gtf > Gallus_gallus.GRCg6a.106.filtered.gtf
+
+cat Gallus_gallus.GRCg6a.106.gtf |grep -e protein_coding -e lncRNA -e pseudogene >> Gallus_gallus.GRCg6a.106.filtered.gtf
+
