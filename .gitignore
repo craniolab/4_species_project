@@ -4,3 +4,4 @@ figures_ignore/
 cellranger_related/cellranger_output/
 cellranger_related/cellranger-9.0.1/
 cellranger_related/cellranger-atac-2.1.0/
+sequencing_results/
