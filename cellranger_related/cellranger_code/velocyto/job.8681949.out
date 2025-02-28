@@ -5775,3 +5775,111 @@
 2025-02-28 15:34:57,513 - DEBUG - Read first 260 million reads
 2025-02-28 15:35:08,045 - DEBUG - Counting for batch 93, containing 100 cells and 1845648 reads
 2025-02-28 15:35:53,466 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:36:32,561 - DEBUG - Counting for batch 94, containing 100 cells and 1978708 reads
+2025-02-28 15:37:16,792 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:37:53,613 - DEBUG - Counting for batch 95, containing 100 cells and 1731002 reads
+2025-02-28 15:38:31,853 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:39:04,489 - DEBUG - Counting for batch 96, containing 100 cells and 1563406 reads
+2025-02-28 15:39:40,420 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:40:00,547 - DEBUG - Read first 270 million reads
+2025-02-28 15:40:10,756 - DEBUG - Counting for batch 97, containing 100 cells and 1616017 reads
+2025-02-28 15:40:47,008 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:41:19,880 - DEBUG - Counting for batch 98, containing 100 cells and 1693202 reads
+2025-02-28 15:41:57,935 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:42:33,781 - DEBUG - Counting for batch 99, containing 100 cells and 1866652 reads
+2025-02-28 15:43:16,420 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:43:50,219 - DEBUG - Counting for batch 100, containing 100 cells and 1682255 reads
+2025-02-28 15:44:29,981 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:44:51,303 - DEBUG - Read first 280 million reads
+2025-02-28 15:45:03,002 - DEBUG - Counting for batch 101, containing 100 cells and 1810727 reads
+2025-02-28 15:45:44,042 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:46:17,460 - DEBUG - Counting for batch 102, containing 100 cells and 1799969 reads
+2025-02-28 15:46:58,219 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:47:34,501 - DEBUG - Counting for batch 103, containing 100 cells and 1998931 reads
+2025-02-28 15:48:19,806 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:48:57,706 - DEBUG - Counting for batch 104, containing 100 cells and 1912649 reads
+2025-02-28 15:49:42,102 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:50:01,882 - DEBUG - Read first 290 million reads
+2025-02-28 15:50:18,289 - DEBUG - Counting for batch 105, containing 100 cells and 1785554 reads
+2025-02-28 15:50:59,124 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:51:30,734 - DEBUG - Counting for batch 106, containing 100 cells and 1571433 reads
+2025-02-28 15:52:05,013 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:52:38,909 - DEBUG - Counting for batch 107, containing 100 cells and 1717964 reads
+2025-02-28 15:53:18,000 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:53:52,313 - DEBUG - Counting for batch 108, containing 100 cells and 1760971 reads
+2025-02-28 15:54:33,023 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:54:50,218 - DEBUG - Read first 300 million reads
+2025-02-28 15:55:08,685 - DEBUG - Counting for batch 109, containing 100 cells and 1864774 reads
+2025-02-28 15:55:53,004 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:56:27,502 - DEBUG - Counting for batch 110, containing 100 cells and 1828098 reads
+2025-02-28 15:57:12,890 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:57:48,763 - DEBUG - Counting for batch 111, containing 100 cells and 1831734 reads
+2025-02-28 15:58:32,703 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 15:59:14,620 - DEBUG - Counting for batch 112, containing 100 cells and 1772583 reads
+2025-02-28 15:59:57,629 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:00:15,950 - DEBUG - Read first 310 million reads
+2025-02-28 16:00:35,192 - DEBUG - Counting for batch 113, containing 100 cells and 1482878 reads
+2025-02-28 16:01:09,807 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:01:50,740 - DEBUG - Counting for batch 114, containing 100 cells and 1874311 reads
+2025-02-28 16:02:39,552 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:03:20,119 - DEBUG - Counting for batch 115, containing 100 cells and 1712573 reads
+2025-02-28 16:04:03,270 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:04:45,100 - DEBUG - Counting for batch 116, containing 100 cells and 1795115 reads
+2025-02-28 16:05:27,953 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:05:44,617 - DEBUG - Read first 320 million reads
+2025-02-28 16:06:07,940 - DEBUG - Counting for batch 117, containing 100 cells and 1804999 reads
+2025-02-28 16:06:53,616 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:07:32,917 - DEBUG - Counting for batch 118, containing 100 cells and 1910234 reads
+2025-02-28 16:08:23,425 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:09:06,718 - DEBUG - Counting for batch 119, containing 100 cells and 2056455 reads
+2025-02-28 16:09:55,073 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:10:29,621 - DEBUG - Read first 330 million reads
+2025-02-28 16:10:36,072 - DEBUG - Counting for batch 120, containing 100 cells and 1940803 reads
+2025-02-28 16:11:21,084 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:11:59,362 - DEBUG - Counting for batch 121, containing 100 cells and 1871399 reads
+2025-02-28 16:12:42,980 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:13:18,226 - DEBUG - Counting for batch 122, containing 100 cells and 1838641 reads
+2025-02-28 16:14:01,215 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:14:42,888 - DEBUG - Counting for batch 123, containing 100 cells and 1978571 reads
+2025-02-28 16:15:27,037 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:15:49,326 - DEBUG - Read first 340 million reads
+2025-02-28 16:16:02,828 - DEBUG - Counting for batch 124, containing 100 cells and 1615401 reads
+2025-02-28 16:16:38,371 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:17:14,400 - DEBUG - Counting for batch 125, containing 100 cells and 1853066 reads
+2025-02-28 16:17:56,245 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:18:35,349 - DEBUG - Counting for batch 126, containing 100 cells and 2005785 reads
+2025-02-28 16:19:21,377 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:19:58,163 - DEBUG - Counting for batch 127, containing 100 cells and 1996109 reads
+2025-02-28 16:20:44,106 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:20:59,275 - DEBUG - Read first 350 million reads
+2025-02-28 16:21:20,824 - DEBUG - Counting for batch 128, containing 100 cells and 1966028 reads
+2025-02-28 16:22:06,127 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:22:39,703 - DEBUG - Counting for batch 129, containing 100 cells and 1739330 reads
+2025-02-28 16:23:19,942 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:23:57,755 - DEBUG - Counting for batch 130, containing 100 cells and 1919197 reads
+2025-02-28 16:24:42,037 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:25:14,996 - DEBUG - Read first 360 million reads
+2025-02-28 16:25:19,639 - DEBUG - Counting for batch 131, containing 100 cells and 1985749 reads
+2025-02-28 16:26:05,995 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:26:41,387 - DEBUG - Counting for batch 132, containing 100 cells and 1740361 reads
+2025-02-28 16:27:22,211 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:27:56,081 - DEBUG - Counting for batch 133, containing 100 cells and 1803790 reads
+2025-02-28 16:28:37,200 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:29:15,974 - DEBUG - Counting for batch 134, containing 100 cells and 2113472 reads
+2025-02-28 16:30:03,290 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:30:29,996 - DEBUG - Read first 370 million reads
+2025-02-28 16:30:40,721 - DEBUG - Counting for batch 135, containing 100 cells and 1781011 reads
+2025-02-28 16:31:22,342 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:31:57,055 - DEBUG - Counting for batch 136, containing 100 cells and 1834927 reads
+2025-02-28 16:32:38,913 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:33:16,109 - DEBUG - Counting for batch 137, containing 100 cells and 1993476 reads
+2025-02-28 16:34:01,741 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:34:40,356 - DEBUG - Counting for batch 138, containing 100 cells and 1874090 reads
+2025-02-28 16:35:25,339 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:35:44,839 - DEBUG - Read first 380 million reads
+2025-02-28 16:35:59,764 - DEBUG - Counting for batch 139, containing 100 cells and 1635478 reads
+2025-02-28 16:36:37,588 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:37:12,127 - DEBUG - Counting for batch 140, containing 100 cells and 1855184 reads
+2025-02-28 16:37:53,279 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:38:31,434 - DEBUG - Counting for batch 141, containing 100 cells and 1884847 reads
+2025-02-28 16:39:16,066 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
