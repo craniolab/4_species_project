@@ -5144,3 +5144,6 @@ A00551:766:HKTVVDSX7:1:2545:9869:5400	0	W	4225527	255	33M3877621N118M	*	0	0	GGAG
 2025-02-28 16:37:52,498 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
 2025-02-28 16:38:26,036 - DEBUG - Counting for batch 77, containing 100 cells and 1669701 reads
 2025-02-28 16:39:09,040 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:39:40,040 - DEBUG - Counting for batch 78, containing 100 cells and 1660169 reads
+2025-02-28 16:40:23,523 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:40:54,784 - DEBUG - Counting for batch 79, containing 100 cells and 1679970 reads
