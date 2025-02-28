@@ -16,7 +16,7 @@
 																						  --localcores=16 \
 																						  --localmem=248
 
-/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE9 \
+/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/cellranger count --id=RE9 \
 																						  --output-dir=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE9 \
 																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/reference_genomes/mRatBN7_2 \
 																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/sequencing_results/sc_rnaseq/rat \
@@ -24,7 +24,7 @@
 																						  --create-bam=true \
 																						  --localcores=16 \
 																						  --localmem=248
-/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE10 \
+/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/cellranger count --id=RE10 \
 																						  --output-dir=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE10 \
 																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/reference_genomes/mRatBN7_2 \
 																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/sequencing_results/sc_rnaseq/rat \
@@ -32,7 +32,7 @@
 																						  --create-bam=true \
 																						  --localcores=16 \
 																						  --localmem=248
-/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE11 \
+/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/cellranger count --id=RE11 \
 																						  --output-dir=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE11 \
 																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/reference_genomes/mRatBN7_2 \
 																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/sequencing_results/sc_rnaseq/rat \
@@ -40,7 +40,7 @@
 																						  --create-bam=true \
 																						  --localcores=16 \
 																						  --localmem=248
-/groups/mpistaff/Cranio_Lab/Louk_Seton/cellranger-7.1.0/cellranger-7.1.0/cellranger count --id=RE12 \
+/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/cellranger count --id=RE12 \
 																						  --output-dir=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE12 \
 																						  --transcriptome=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/reference_genomes/mRatBN7_2 \
 																						  --fastqs=/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/sequencing_results/sc_rnaseq/rat \
