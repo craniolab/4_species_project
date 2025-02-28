@@ -2727,3 +2727,30 @@ samtools: samtools 1.16.1
 2025-02-28 16:39:22 [runtime] (chunks_complete) ID.SE12.SC_RNA_COUNTER_CS.SC_MULTI_CORE.MULTI_REPORTER.CHOOSE_CLOUPE
 2025-02-28 16:40:28 [runtime] (update)          ID.SE12.SC_RNA_COUNTER_CS.SC_MULTI_CORE.MULTI_GEM_WELL_PROCESSOR.COUNT_GEM_WELL_PROCESSOR._BASIC_SC_RNA_COUNTER.WRITE_POS_BAM.fork0 join_running
 2025-02-28 16:40:54 [runtime] (join_complete)   ID.SE12.SC_RNA_COUNTER_CS.SC_MULTI_CORE.MULTI_GEM_WELL_PROCESSOR.COUNT_GEM_WELL_PROCESSOR._BASIC_SC_RNA_COUNTER.WRITE_POS_BAM
+
+Outputs:
+- Run summary HTML:                         /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/web_summary.html
+- Run summary CSV:                          /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/metrics_summary.csv
+- BAM:                                      /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/possorted_genome_bam.bam
+- BAM BAI index:                            /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/possorted_genome_bam.bam.bai
+- BAM CSI index:                            null
+- Filtered feature-barcode matrices MEX:    /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/filtered_feature_bc_matrix
+- Filtered feature-barcode matrices HDF5:   /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/filtered_feature_bc_matrix.h5
+- Unfiltered feature-barcode matrices MEX:  /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/raw_feature_bc_matrix
+- Unfiltered feature-barcode matrices HDF5: /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/raw_feature_bc_matrix.h5
+- Secondary analysis output CSV:            /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/analysis
+- Per-molecule read information:            /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/molecule_info.h5
+- CRISPR-specific analysis:                 null
+- Antibody aggregate barcodes:              null
+- Loupe Browser file:                       /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/outs/cloupe.cloupe
+- Feature Reference:                        null
+- Target Panel File:                        null
+- Probe Set File:                           null
+- cell_types:                               null
+- Symlink web_summary_cell_types.html:      null
+
+Waiting 6 seconds for UI to do final refresh.
+Pipestance completed successfully!
+
+2025-02-28 16:41:33 Shutting down.
+Saving pipestance info to "/groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE12/SE12.mri.tgz"

@@ -1889,3 +1889,4 @@ A00709:866:HHG3WDSXC:2:2561:9408:20353	0	12	17841724	255	145M3507778N6M	*	0	0	AG
 2025-02-28 16:37:41,364 - DEBUG - Read first 240 million reads
 2025-02-28 16:38:02,175 - DEBUG - Counting for batch 58, containing 100 cells and 3058500 reads
 2025-02-28 16:39:56,647 - DEBUG - 0 reads not considered because fully enclosed in repeat masked regions
+2025-02-28 16:41:06,141 - DEBUG - Counting for batch 59, containing 100 cells and 2801888 reads
