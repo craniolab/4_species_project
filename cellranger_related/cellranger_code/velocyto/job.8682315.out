@@ -1,0 +1,1736 @@
+2025-03-03 12:06:50,557 - DEBUG - Using logic: Default
+2025-03-03 12:06:50,602 - INFO - Read 13903 cell barcodes from /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE8_9/outs/filtered_feature_bc_matrix/barcodes.tsv.gz
+2025-03-03 12:06:50,602 - DEBUG - Example of barcode: AAACCCAAGGACTGGT and cell_id: SE8_9:AAACCCAAGGACTGGT-1
+2025-03-03 12:06:50,619 - DEBUG - Peeking into /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE8_9/outs/possorted_genome_bam.bam
+2025-03-03 12:06:51,438 - WARNING - Not found cell and umi barcode in entry 3 of the bam file
+2025-03-03 12:06:51,438 - WARNING - Not found cell and umi barcode in entry 34 of the bam file
+2025-03-03 12:06:51,439 - WARNING - Not found cell and umi barcode in entry 99 of the bam file
+2025-03-03 12:06:51,439 - WARNING - Not found cell and umi barcode in entry 179 of the bam file
+2025-03-03 12:06:51,440 - WARNING - Not found cell and umi barcode in entry 181 of the bam file
+2025-03-03 12:06:51,440 - WARNING - Not found cell and umi barcode in entry 188 of the bam file
+2025-03-03 12:06:51,440 - WARNING - Not found cell and umi barcode in entry 198 of the bam file
+2025-03-03 12:06:51,440 - WARNING - Not found cell and umi barcode in entry 264 of the bam file
+2025-03-03 12:06:51,440 - WARNING - Not found cell and umi barcode in entry 265 of the bam file
+2025-03-03 12:06:51,440 - WARNING - Not found cell and umi barcode in entry 269 of the bam file
+2025-03-03 12:06:51,441 - WARNING - Not found cell and umi barcode in entry 289 of the bam file
+2025-03-03 12:06:51,441 - WARNING - Not found cell and umi barcode in entry 290 of the bam file
+2025-03-03 12:06:51,441 - WARNING - Not found cell and umi barcode in entry 294 of the bam file
+2025-03-03 12:06:51,441 - WARNING - Not found cell and umi barcode in entry 328 of the bam file
+2025-03-03 12:06:51,441 - WARNING - Not found cell and umi barcode in entry 346 of the bam file
+2025-03-03 12:06:51,441 - WARNING - Not found cell and umi barcode in entry 347 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 351 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 357 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 360 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 363 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 364 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 366 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 371 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 385 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 386 of the bam file
+2025-03-03 12:06:51,442 - WARNING - Not found cell and umi barcode in entry 387 of the bam file
+2025-03-03 12:06:51,443 - WARNING - Not found cell and umi barcode in entry 393 of the bam file
+2025-03-03 12:06:51,443 - WARNING - Not found cell and umi barcode in entry 413 of the bam file
+2025-03-03 12:06:51,443 - WARNING - Not found cell and umi barcode in entry 414 of the bam file
+2025-03-03 12:06:51,443 - WARNING - Not found cell and umi barcode in entry 417 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 420 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 426 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 427 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 429 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 453 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 455 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 458 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 495 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 496 of the bam file
+2025-03-03 12:06:51,444 - WARNING - Not found cell and umi barcode in entry 497 of the bam file
+2025-03-03 12:06:51,445 - WARNING - Not found cell and umi barcode in entry 498 of the bam file
+2025-03-03 12:06:51,445 - WARNING - Not found cell and umi barcode in entry 538 of the bam file
+2025-03-03 12:06:51,445 - WARNING - Not found cell and umi barcode in entry 539 of the bam file
+2025-03-03 12:06:51,445 - WARNING - Not found cell and umi barcode in entry 540 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 578 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 579 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 580 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 586 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 593 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 596 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 602 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 607 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 608 of the bam file
+2025-03-03 12:06:51,446 - WARNING - Not found cell and umi barcode in entry 609 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 636 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 638 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 639 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 649 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 651 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 652 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 662 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 678 of the bam file
+2025-03-03 12:06:51,447 - WARNING - Not found cell and umi barcode in entry 682 of the bam file
+2025-03-03 12:06:51,448 - WARNING - Not found cell and umi barcode in entry 706 of the bam file
+2025-03-03 12:06:51,448 - WARNING - Not found cell and umi barcode in entry 710 of the bam file
+2025-03-03 12:06:51,448 - WARNING - Not found cell and umi barcode in entry 734 of the bam file
+2025-03-03 12:06:51,448 - WARNING - Not found cell and umi barcode in entry 738 of the bam file
+2025-03-03 12:06:51,448 - WARNING - Not found cell and umi barcode in entry 741 of the bam file
+2025-03-03 12:06:51,449 - WARNING - Not found cell and umi barcode in entry 825 of the bam file
+2025-03-03 12:06:51,449 - WARNING - Not found cell and umi barcode in entry 826 of the bam file
+2025-03-03 12:06:51,449 - WARNING - Not found cell and umi barcode in entry 831 of the bam file
+2025-03-03 12:06:51,449 - WARNING - Not found cell and umi barcode in entry 854 of the bam file
+2025-03-03 12:06:51,449 - WARNING - Not found cell and umi barcode in entry 855 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 860 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 861 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 875 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 877 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 888 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 889 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 897 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 899 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 901 of the bam file
+2025-03-03 12:06:51,450 - WARNING - Not found cell and umi barcode in entry 905 of the bam file
+2025-03-03 12:06:51,451 - WARNING - Not found cell and umi barcode in entry 909 of the bam file
+2025-03-03 12:06:51,451 - WARNING - Not found cell and umi barcode in entry 914 of the bam file
+2025-03-03 12:06:51,451 - WARNING - Not found cell and umi barcode in entry 915 of the bam file
+2025-03-03 12:06:51,451 - WARNING - Not found cell and umi barcode in entry 921 of the bam file
+2025-03-03 12:06:51,451 - WARNING - Not found cell and umi barcode in entry 933 of the bam file
+2025-03-03 12:06:51,451 - WARNING - Not found cell and umi barcode in entry 964 of the bam file
+2025-03-03 12:06:51,451 - WARNING - Not found cell and umi barcode in entry 966 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 977 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 980 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 983 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 984 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 985 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 986 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 987 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 988 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 995 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 997 of the bam file
+2025-03-03 12:06:51,452 - WARNING - Not found cell and umi barcode in entry 998 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 999 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1005 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1010 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1049 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1062 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1066 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1067 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1085 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1098 of the bam file
+2025-03-03 12:06:51,453 - WARNING - Not found cell and umi barcode in entry 1099 of the bam file
+2025-03-03 12:06:51,454 - WARNING - Not found cell and umi barcode in entry 1111 of the bam file
+2025-03-03 12:06:51,509 - INFO - Starting the sorting process of /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE8_9/outs/possorted_genome_bam.bam the output will be at: /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE8_9/outs/cellsorted_possorted_genome_bam.bam
+2025-03-03 12:06:51,510 - INFO - Command being run is: samtools sort -l 7 -m 5120M -t CB -O BAM -@ 16 -o /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE8_9/outs/cellsorted_possorted_genome_bam.bam /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE8_9/outs/possorted_genome_bam.bam
+2025-03-03 12:06:51,510 - INFO - While the bam sorting happens do other things...
+2025-03-03 12:06:51,510 - INFO - Load the annotation from /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/reference_genomes/sScyCan1_1/genes/genes.gtf
+2025-03-03 12:07:07,647 - DEBUG - Parsing Chromosome NC_001950.1 strand - [line 0]
+2025-03-03 12:07:07,649 - DEBUG - Done with NC_001950.1- [line 5]
+2025-03-03 12:07:07,649 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:07,649 - DEBUG - Seen 1 genes until now
+2025-03-03 12:07:07,649 - DEBUG - Parsing Chromosome NC_001950.1 strand + [line 6]
+2025-03-03 12:07:07,650 - DEBUG - Done with NC_001950.1+ [line 77]
+2025-03-03 12:07:07,650 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:07,650 - DEBUG - Seen 13 genes until now
+2025-03-03 12:07:07,650 - DEBUG - Parsing Chromosome NC_052146.1 strand - [line 78]
+2025-03-03 12:07:07,976 - DEBUG - Done with NC_052146.1- [line 48378]
+2025-03-03 12:07:07,976 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:07,979 - DEBUG - Seen 780 genes until now
+2025-03-03 12:07:07,979 - DEBUG - Parsing Chromosome NC_052146.1 strand + [line 48379]
+2025-03-03 12:07:08,202 - DEBUG - Done with NC_052146.1+ [line 103744]
+2025-03-03 12:07:08,202 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:08,205 - DEBUG - Seen 1634 genes until now
+2025-03-03 12:07:08,205 - DEBUG - Parsing Chromosome NC_052147.1 strand - [line 103745]
+2025-03-03 12:07:08,530 - DEBUG - Done with NC_052147.1- [line 154546]
+2025-03-03 12:07:08,531 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:08,533 - DEBUG - Seen 2307 genes until now
+2025-03-03 12:07:08,533 - DEBUG - Parsing Chromosome NC_052147.1 strand + [line 154547]
+2025-03-03 12:07:08,736 - DEBUG - Done with NC_052147.1+ [line 204867]
+2025-03-03 12:07:08,736 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:08,739 - DEBUG - Seen 3042 genes until now
+2025-03-03 12:07:08,739 - DEBUG - Parsing Chromosome NC_052148.1 strand - [line 204868]
+2025-03-03 12:07:09,031 - DEBUG - Done with NC_052148.1- [line 243579]
+2025-03-03 12:07:09,031 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:09,033 - DEBUG - Seen 3599 genes until now
+2025-03-03 12:07:09,033 - DEBUG - Parsing Chromosome NC_052148.1 strand + [line 243580]
+2025-03-03 12:07:09,218 - DEBUG - Done with NC_052148.1+ [line 289714]
+2025-03-03 12:07:09,218 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:09,220 - DEBUG - Seen 4177 genes until now
+2025-03-03 12:07:09,220 - DEBUG - Parsing Chromosome NC_052149.1 strand - [line 289715]
+2025-03-03 12:07:09,552 - DEBUG - Done with NC_052149.1- [line 333270]
+2025-03-03 12:07:09,552 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:09,554 - DEBUG - Seen 4758 genes until now
+2025-03-03 12:07:09,554 - DEBUG - Parsing Chromosome NC_052149.1 strand + [line 333271]
+2025-03-03 12:07:09,698 - DEBUG - Done with NC_052149.1+ [line 369507]
+2025-03-03 12:07:09,698 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:09,700 - DEBUG - Seen 5353 genes until now
+2025-03-03 12:07:09,700 - DEBUG - Parsing Chromosome NC_052150.1 strand - [line 369508]
+2025-03-03 12:07:09,840 - DEBUG - Done with NC_052150.1- [line 403597]
+2025-03-03 12:07:09,841 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:09,843 - DEBUG - Seen 5841 genes until now
+2025-03-03 12:07:09,843 - DEBUG - Parsing Chromosome NC_052150.1 strand + [line 403598]
+2025-03-03 12:07:09,972 - DEBUG - Done with NC_052150.1+ [line 435728]
+2025-03-03 12:07:09,972 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:09,973 - DEBUG - Seen 6318 genes until now
+2025-03-03 12:07:09,973 - DEBUG - Parsing Chromosome NC_052151.1 strand - [line 435729]
+2025-03-03 12:07:10,113 - DEBUG - Done with NC_052151.1- [line 469332]
+2025-03-03 12:07:10,113 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:10,115 - DEBUG - Seen 6872 genes until now
+2025-03-03 12:07:10,115 - DEBUG - Parsing Chromosome NC_052151.1 strand + [line 469333]
+2025-03-03 12:07:10,467 - DEBUG - Done with NC_052151.1+ [line 499548]
+2025-03-03 12:07:10,467 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:10,469 - DEBUG - Seen 7441 genes until now
+2025-03-03 12:07:10,469 - DEBUG - Parsing Chromosome NC_052152.1 strand - [line 499549]
+2025-03-03 12:07:10,606 - DEBUG - Done with NC_052152.1- [line 532898]
+2025-03-03 12:07:10,606 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:10,608 - DEBUG - Seen 7944 genes until now
+2025-03-03 12:07:10,608 - DEBUG - Parsing Chromosome NC_052152.1 strand + [line 532899]
+2025-03-03 12:07:10,743 - DEBUG - Done with NC_052152.1+ [line 566720]
+2025-03-03 12:07:10,743 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:10,745 - DEBUG - Seen 8496 genes until now
+2025-03-03 12:07:10,745 - DEBUG - Parsing Chromosome NC_052153.1 strand - [line 566721]
+2025-03-03 12:07:10,900 - DEBUG - Done with NC_052153.1- [line 603972]
+2025-03-03 12:07:10,900 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:10,902 - DEBUG - Seen 8890 genes until now
+2025-03-03 12:07:10,902 - DEBUG - Parsing Chromosome NC_052153.1 strand + [line 603973]
+2025-03-03 12:07:11,006 - DEBUG - Done with NC_052153.1+ [line 629977]
+2025-03-03 12:07:11,006 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:11,008 - DEBUG - Seen 9294 genes until now
+2025-03-03 12:07:11,008 - DEBUG - Parsing Chromosome NC_052154.1 strand - [line 629978]
+2025-03-03 12:07:11,333 - DEBUG - Done with NC_052154.1- [line 660082]
+2025-03-03 12:07:11,334 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:11,336 - DEBUG - Seen 9795 genes until now
+2025-03-03 12:07:11,336 - DEBUG - Parsing Chromosome NC_052154.1 strand + [line 660083]
+2025-03-03 12:07:11,484 - DEBUG - Done with NC_052154.1+ [line 697125]
+2025-03-03 12:07:11,484 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:11,486 - DEBUG - Seen 10285 genes until now
+2025-03-03 12:07:11,486 - DEBUG - Parsing Chromosome NC_052155.1 strand - [line 697126]
+2025-03-03 12:07:11,620 - DEBUG - Done with NC_052155.1- [line 729877]
+2025-03-03 12:07:11,620 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:11,622 - DEBUG - Seen 10679 genes until now
+2025-03-03 12:07:11,622 - DEBUG - Parsing Chromosome NC_052155.1 strand + [line 729878]
+2025-03-03 12:07:11,736 - DEBUG - Done with NC_052155.1+ [line 758671]
+2025-03-03 12:07:11,736 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:11,739 - DEBUG - Seen 11042 genes until now
+2025-03-03 12:07:11,739 - DEBUG - Parsing Chromosome NC_052156.1 strand - [line 758672]
+2025-03-03 12:07:11,890 - DEBUG - Done with NC_052156.1- [line 795422]
+2025-03-03 12:07:11,890 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:11,892 - DEBUG - Seen 11474 genes until now
+2025-03-03 12:07:11,892 - DEBUG - Parsing Chromosome NC_052156.1 strand + [line 795423]
+2025-03-03 12:07:12,056 - DEBUG - Done with NC_052156.1+ [line 836170]
+2025-03-03 12:07:12,056 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:12,058 - DEBUG - Seen 11903 genes until now
+2025-03-03 12:07:12,058 - DEBUG - Parsing Chromosome NC_052157.1 strand - [line 836171]
+2025-03-03 12:07:12,185 - DEBUG - Done with NC_052157.1- [line 867472]
+2025-03-03 12:07:12,185 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:12,187 - DEBUG - Seen 12405 genes until now
+2025-03-03 12:07:12,187 - DEBUG - Parsing Chromosome NC_052157.1 strand + [line 867473]
+2025-03-03 12:07:12,531 - DEBUG - Done with NC_052157.1+ [line 894595]
+2025-03-03 12:07:12,531 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:12,532 - DEBUG - Seen 12885 genes until now
+2025-03-03 12:07:12,533 - DEBUG - Parsing Chromosome NC_052158.1 strand - [line 894596]
+2025-03-03 12:07:12,653 - DEBUG - Done with NC_052158.1- [line 924423]
+2025-03-03 12:07:12,654 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:12,656 - DEBUG - Seen 13520 genes until now
+2025-03-03 12:07:12,656 - DEBUG - Parsing Chromosome NC_052158.1 strand + [line 924424]
+2025-03-03 12:07:12,770 - DEBUG - Done with NC_052158.1+ [line 953399]
+2025-03-03 12:07:12,770 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:12,772 - DEBUG - Seen 14105 genes until now
+2025-03-03 12:07:12,772 - DEBUG - Parsing Chromosome NC_052159.1 strand - [line 953400]
+2025-03-03 12:07:12,874 - DEBUG - Done with NC_052159.1- [line 978348]
+2025-03-03 12:07:12,874 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:12,876 - DEBUG - Seen 14460 genes until now
+2025-03-03 12:07:12,876 - DEBUG - Parsing Chromosome NC_052159.1 strand + [line 978349]
+2025-03-03 12:07:12,961 - DEBUG - Done with NC_052159.1+ [line 999762]
+2025-03-03 12:07:12,961 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:12,962 - DEBUG - Seen 14798 genes until now
+2025-03-03 12:07:12,962 - DEBUG - Parsing Chromosome NC_052160.1 strand - [line 999763]
+2025-03-03 12:07:13,077 - DEBUG - Done with NC_052160.1- [line 1027728]
+2025-03-03 12:07:13,077 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:13,078 - DEBUG - Seen 15257 genes until now
+2025-03-03 12:07:13,078 - DEBUG - Parsing Chromosome NC_052160.1 strand + [line 1027729]
+2025-03-03 12:07:13,180 - DEBUG - Done with NC_052160.1+ [line 1053376]
+2025-03-03 12:07:13,180 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:13,182 - DEBUG - Seen 15718 genes until now
+2025-03-03 12:07:13,182 - DEBUG - Parsing Chromosome NC_052161.1 strand - [line 1053377]
+2025-03-03 12:07:13,320 - DEBUG - Done with NC_052161.1- [line 1087638]
+2025-03-03 12:07:13,320 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:13,322 - DEBUG - Seen 16186 genes until now
+2025-03-03 12:07:13,322 - DEBUG - Parsing Chromosome NC_052161.1 strand + [line 1087639]
+2025-03-03 12:07:13,455 - DEBUG - Done with NC_052161.1+ [line 1121152]
+2025-03-03 12:07:13,456 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:13,458 - DEBUG - Seen 16620 genes until now
+2025-03-03 12:07:13,458 - DEBUG - Parsing Chromosome NC_052162.1 strand - [line 1121153]
+2025-03-03 12:07:13,531 - DEBUG - Done with NC_052162.1- [line 1139748]
+2025-03-03 12:07:13,531 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:13,533 - DEBUG - Seen 17198 genes until now
+2025-03-03 12:07:13,533 - DEBUG - Parsing Chromosome NC_052162.1 strand + [line 1139749]
+2025-03-03 12:07:13,600 - DEBUG - Done with NC_052162.1+ [line 1157262]
+2025-03-03 12:07:13,600 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:13,602 - DEBUG - Seen 17769 genes until now
+2025-03-03 12:07:13,602 - DEBUG - Parsing Chromosome NC_052163.1 strand - [line 1157263]
+2025-03-03 12:07:14,007 - DEBUG - Done with NC_052163.1- [line 1188621]
+2025-03-03 12:07:14,012 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,014 - DEBUG - Seen 18186 genes until now
+2025-03-03 12:07:14,014 - DEBUG - Parsing Chromosome NC_052163.1 strand + [line 1188622]
+2025-03-03 12:07:14,111 - DEBUG - Done with NC_052163.1+ [line 1213158]
+2025-03-03 12:07:14,111 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,112 - DEBUG - Seen 18617 genes until now
+2025-03-03 12:07:14,112 - DEBUG - Parsing Chromosome NC_052164.1 strand - [line 1213159]
+2025-03-03 12:07:14,190 - DEBUG - Done with NC_052164.1- [line 1232326]
+2025-03-03 12:07:14,190 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,192 - DEBUG - Seen 18944 genes until now
+2025-03-03 12:07:14,192 - DEBUG - Parsing Chromosome NC_052164.1 strand + [line 1232327]
+2025-03-03 12:07:14,262 - DEBUG - Done with NC_052164.1+ [line 1250195]
+2025-03-03 12:07:14,262 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,263 - DEBUG - Seen 19269 genes until now
+2025-03-03 12:07:14,263 - DEBUG - Parsing Chromosome NC_052165.1 strand - [line 1250196]
+2025-03-03 12:07:14,369 - DEBUG - Done with NC_052165.1- [line 1276298]
+2025-03-03 12:07:14,369 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,371 - DEBUG - Seen 19609 genes until now
+2025-03-03 12:07:14,371 - DEBUG - Parsing Chromosome NC_052165.1 strand + [line 1276299]
+2025-03-03 12:07:14,434 - DEBUG - Done with NC_052165.1+ [line 1292429]
+2025-03-03 12:07:14,435 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,436 - DEBUG - Seen 19897 genes until now
+2025-03-03 12:07:14,436 - DEBUG - Parsing Chromosome NC_052166.1 strand - [line 1292430]
+2025-03-03 12:07:14,503 - DEBUG - Done with NC_052166.1- [line 1308908]
+2025-03-03 12:07:14,503 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,504 - DEBUG - Seen 20164 genes until now
+2025-03-03 12:07:14,504 - DEBUG - Parsing Chromosome NC_052166.1 strand + [line 1308909]
+2025-03-03 12:07:14,574 - DEBUG - Done with NC_052166.1+ [line 1325869]
+2025-03-03 12:07:14,574 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,575 - DEBUG - Seen 20411 genes until now
+2025-03-03 12:07:14,575 - DEBUG - Parsing Chromosome NC_052167.1 strand - [line 1325870]
+2025-03-03 12:07:14,608 - DEBUG - Done with NC_052167.1- [line 1334182]
+2025-03-03 12:07:14,609 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,609 - DEBUG - Seen 20530 genes until now
+2025-03-03 12:07:14,609 - DEBUG - Parsing Chromosome NC_052167.1 strand + [line 1334183]
+2025-03-03 12:07:14,653 - DEBUG - Done with NC_052167.1+ [line 1345180]
+2025-03-03 12:07:14,653 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,653 - DEBUG - Seen 20639 genes until now
+2025-03-03 12:07:14,653 - DEBUG - Parsing Chromosome NC_052168.1 strand - [line 1345181]
+2025-03-03 12:07:14,704 - DEBUG - Done with NC_052168.1- [line 1357465]
+2025-03-03 12:07:14,704 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,705 - DEBUG - Seen 20820 genes until now
+2025-03-03 12:07:14,705 - DEBUG - Parsing Chromosome NC_052168.1 strand + [line 1357466]
+2025-03-03 12:07:14,733 - DEBUG - Done with NC_052168.1+ [line 1364557]
+2025-03-03 12:07:14,733 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,733 - DEBUG - Seen 20986 genes until now
+2025-03-03 12:07:14,733 - DEBUG - Parsing Chromosome NC_052169.1 strand - [line 1364558]
+2025-03-03 12:07:14,768 - DEBUG - Done with NC_052169.1- [line 1372756]
+2025-03-03 12:07:14,768 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,769 - DEBUG - Seen 21083 genes until now
+2025-03-03 12:07:14,769 - DEBUG - Parsing Chromosome NC_052169.1 strand + [line 1372757]
+2025-03-03 12:07:14,794 - DEBUG - Done with NC_052169.1+ [line 1379446]
+2025-03-03 12:07:14,794 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,795 - DEBUG - Seen 21202 genes until now
+2025-03-03 12:07:14,795 - DEBUG - Parsing Chromosome NC_052170.1 strand - [line 1379447]
+2025-03-03 12:07:14,824 - DEBUG - Done with NC_052170.1- [line 1386487]
+2025-03-03 12:07:14,824 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,824 - DEBUG - Seen 21324 genes until now
+2025-03-03 12:07:14,824 - DEBUG - Parsing Chromosome NC_052170.1 strand + [line 1386488]
+2025-03-03 12:07:14,858 - DEBUG - Done with NC_052170.1+ [line 1394942]
+2025-03-03 12:07:14,858 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,859 - DEBUG - Seen 21451 genes until now
+2025-03-03 12:07:14,859 - DEBUG - Parsing Chromosome NC_052171.1 strand - [line 1394943]
+2025-03-03 12:07:14,884 - DEBUG - Done with NC_052171.1- [line 1401136]
+2025-03-03 12:07:14,884 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,884 - DEBUG - Seen 21580 genes until now
+2025-03-03 12:07:14,884 - DEBUG - Parsing Chromosome NC_052171.1 strand + [line 1401137]
+2025-03-03 12:07:14,922 - DEBUG - Done with NC_052171.1+ [line 1410562]
+2025-03-03 12:07:14,922 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,923 - DEBUG - Seen 21720 genes until now
+2025-03-03 12:07:14,923 - DEBUG - Parsing Chromosome NC_052172.1 strand - [line 1410563]
+2025-03-03 12:07:14,943 - DEBUG - Done with NC_052172.1- [line 1415513]
+2025-03-03 12:07:14,943 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,945 - DEBUG - Seen 21870 genes until now
+2025-03-03 12:07:14,945 - DEBUG - Parsing Chromosome NC_052172.1 strand + [line 1415514]
+2025-03-03 12:07:14,966 - DEBUG - Done with NC_052172.1+ [line 1421121]
+2025-03-03 12:07:14,967 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,967 - DEBUG - Seen 22031 genes until now
+2025-03-03 12:07:14,967 - DEBUG - Parsing Chromosome NC_052173.1 strand - [line 1421122]
+2025-03-03 12:07:14,982 - DEBUG - Done with NC_052173.1- [line 1424699]
+2025-03-03 12:07:14,982 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:14,982 - DEBUG - Seen 22114 genes until now
+2025-03-03 12:07:14,982 - DEBUG - Parsing Chromosome NC_052173.1 strand + [line 1424700]
+2025-03-03 12:07:15,003 - DEBUG - Done with NC_052173.1+ [line 1429967]
+2025-03-03 12:07:15,003 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,003 - DEBUG - Seen 22202 genes until now
+2025-03-03 12:07:15,003 - DEBUG - Parsing Chromosome NC_052174.1 strand - [line 1429968]
+2025-03-03 12:07:15,019 - DEBUG - Done with NC_052174.1- [line 1433427]
+2025-03-03 12:07:15,019 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,019 - DEBUG - Seen 22309 genes until now
+2025-03-03 12:07:15,019 - DEBUG - Parsing Chromosome NC_052174.1 strand + [line 1433428]
+2025-03-03 12:07:15,036 - DEBUG - Done with NC_052174.1+ [line 1437930]
+2025-03-03 12:07:15,036 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,037 - DEBUG - Seen 22409 genes until now
+2025-03-03 12:07:15,037 - DEBUG - Parsing Chromosome NC_052175.1 strand - [line 1437931]
+2025-03-03 12:07:15,045 - DEBUG - Done with NC_052175.1- [line 1440098]
+2025-03-03 12:07:15,045 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,045 - DEBUG - Seen 22466 genes until now
+2025-03-03 12:07:15,045 - DEBUG - Parsing Chromosome NC_052175.1 strand + [line 1440099]
+2025-03-03 12:07:15,052 - DEBUG - Done with NC_052175.1+ [line 1441795]
+2025-03-03 12:07:15,052 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,053 - DEBUG - Seen 22537 genes until now
+2025-03-03 12:07:15,053 - DEBUG - Parsing Chromosome NC_052176.1 strand - [line 1441796]
+2025-03-03 12:07:15,060 - DEBUG - Done with NC_052176.1- [line 1443851]
+2025-03-03 12:07:15,060 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,061 - DEBUG - Seen 22646 genes until now
+2025-03-03 12:07:15,061 - DEBUG - Parsing Chromosome NC_052176.1 strand + [line 1443852]
+2025-03-03 12:07:15,068 - DEBUG - Done with NC_052176.1+ [line 1445888]
+2025-03-03 12:07:15,068 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,069 - DEBUG - Seen 22750 genes until now
+2025-03-03 12:07:15,069 - DEBUG - Parsing Chromosome NW_024055424.1 strand - [line 1445889]
+2025-03-03 12:07:15,069 - DEBUG - Done with NW_024055424.1- [line 1445901]
+2025-03-03 12:07:15,069 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,069 - DEBUG - Seen 22751 genes until now
+2025-03-03 12:07:15,069 - DEBUG - Parsing Chromosome NW_024055425.1 strand - [line 1445902]
+2025-03-03 12:07:15,069 - DEBUG - Done with NW_024055425.1- [line 1445943]
+2025-03-03 12:07:15,069 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,069 - DEBUG - Seen 22755 genes until now
+2025-03-03 12:07:15,069 - DEBUG - Parsing Chromosome NW_024055425.1 strand + [line 1445944]
+2025-03-03 12:07:15,070 - DEBUG - Done with NW_024055425.1+ [line 1446015]
+2025-03-03 12:07:15,070 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,070 - DEBUG - Seen 22759 genes until now
+2025-03-03 12:07:15,070 - DEBUG - Parsing Chromosome NW_024055426.1 strand - [line 1446016]
+2025-03-03 12:07:15,070 - DEBUG - Done with NW_024055426.1- [line 1446115]
+2025-03-03 12:07:15,070 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,071 - DEBUG - Seen 22761 genes until now
+2025-03-03 12:07:15,071 - DEBUG - Parsing Chromosome NW_024055426.1 strand + [line 1446116]
+2025-03-03 12:07:15,071 - DEBUG - Done with NW_024055426.1+ [line 1446123]
+2025-03-03 12:07:15,071 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,071 - DEBUG - Seen 22762 genes until now
+2025-03-03 12:07:15,071 - DEBUG - Parsing Chromosome NW_024055427.1 strand - [line 1446124]
+2025-03-03 12:07:15,071 - DEBUG - Done with NW_024055427.1- [line 1446173]
+2025-03-03 12:07:15,071 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,071 - DEBUG - Seen 22765 genes until now
+2025-03-03 12:07:15,071 - DEBUG - Parsing Chromosome NW_024055427.1 strand + [line 1446174]
+2025-03-03 12:07:15,071 - DEBUG - Done with NW_024055427.1+ [line 1446240]
+2025-03-03 12:07:15,071 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,072 - DEBUG - Seen 22772 genes until now
+2025-03-03 12:07:15,072 - DEBUG - Parsing Chromosome NW_024055428.1 strand - [line 1446241]
+2025-03-03 12:07:15,072 - DEBUG - Done with NW_024055428.1- [line 1446265]
+2025-03-03 12:07:15,072 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,072 - DEBUG - Seen 22775 genes until now
+2025-03-03 12:07:15,072 - DEBUG - Parsing Chromosome NW_024055428.1 strand + [line 1446266]
+2025-03-03 12:07:15,072 - DEBUG - Done with NW_024055428.1+ [line 1446355]
+2025-03-03 12:07:15,072 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,072 - DEBUG - Seen 22779 genes until now
+2025-03-03 12:07:15,072 - DEBUG - Parsing Chromosome NW_024055429.1 strand - [line 1446356]
+2025-03-03 12:07:15,073 - DEBUG - Done with NW_024055429.1- [line 1446449]
+2025-03-03 12:07:15,073 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,073 - DEBUG - Seen 22785 genes until now
+2025-03-03 12:07:15,073 - DEBUG - Parsing Chromosome NW_024055429.1 strand + [line 1446450]
+2025-03-03 12:07:15,073 - DEBUG - Done with NW_024055429.1+ [line 1446536]
+2025-03-03 12:07:15,073 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,073 - DEBUG - Seen 22793 genes until now
+2025-03-03 12:07:15,074 - DEBUG - Parsing Chromosome NW_024055430.1 strand + [line 1446537]
+2025-03-03 12:07:15,074 - DEBUG - Done with NW_024055430.1+ [line 1446544]
+2025-03-03 12:07:15,074 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,074 - DEBUG - Seen 22794 genes until now
+2025-03-03 12:07:15,074 - DEBUG - Parsing Chromosome NW_024055431.1 strand - [line 1446545]
+2025-03-03 12:07:15,074 - DEBUG - Done with NW_024055431.1- [line 1446575]
+2025-03-03 12:07:15,074 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,074 - DEBUG - Seen 22799 genes until now
+2025-03-03 12:07:15,074 - DEBUG - Parsing Chromosome NW_024055431.1 strand + [line 1446576]
+2025-03-03 12:07:15,074 - DEBUG - Done with NW_024055431.1+ [line 1446580]
+2025-03-03 12:07:15,074 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,074 - DEBUG - Seen 22800 genes until now
+2025-03-03 12:07:15,074 - DEBUG - Parsing Chromosome NW_024055433.1 strand - [line 1446581]
+2025-03-03 12:07:15,074 - DEBUG - Done with NW_024055433.1- [line 1446604]
+2025-03-03 12:07:15,074 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,074 - DEBUG - Seen 22802 genes until now
+2025-03-03 12:07:15,074 - DEBUG - Parsing Chromosome NW_024055433.1 strand + [line 1446605]
+2025-03-03 12:07:15,075 - DEBUG - Done with NW_024055433.1+ [line 1446632]
+2025-03-03 12:07:15,075 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,075 - DEBUG - Seen 22807 genes until now
+2025-03-03 12:07:15,075 - DEBUG - Parsing Chromosome NW_024055434.1 strand + [line 1446633]
+2025-03-03 12:07:15,075 - DEBUG - Done with NW_024055434.1+ [line 1446641]
+2025-03-03 12:07:15,075 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,075 - DEBUG - Seen 22808 genes until now
+2025-03-03 12:07:15,075 - DEBUG - Parsing Chromosome NW_024055436.1 strand + [line 1446642]
+2025-03-03 12:07:15,075 - DEBUG - Done with NW_024055436.1+ [line 1446648]
+2025-03-03 12:07:15,075 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,075 - DEBUG - Seen 22809 genes until now
+2025-03-03 12:07:15,075 - DEBUG - Parsing Chromosome NW_024055437.1 strand - [line 1446649]
+2025-03-03 12:07:15,075 - DEBUG - Done with NW_024055437.1- [line 1446692]
+2025-03-03 12:07:15,075 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,075 - DEBUG - Seen 22813 genes until now
+2025-03-03 12:07:15,076 - DEBUG - Parsing Chromosome NW_024055437.1 strand + [line 1446693]
+2025-03-03 12:07:15,076 - DEBUG - Done with NW_024055437.1+ [line 1446709]
+2025-03-03 12:07:15,076 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,076 - DEBUG - Seen 22815 genes until now
+2025-03-03 12:07:15,076 - DEBUG - Parsing Chromosome NW_024055440.1 strand - [line 1446710]
+2025-03-03 12:07:15,076 - DEBUG - Done with NW_024055440.1- [line 1446737]
+2025-03-03 12:07:15,076 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,076 - DEBUG - Seen 22817 genes until now
+2025-03-03 12:07:15,076 - DEBUG - Parsing Chromosome NW_024055440.1 strand + [line 1446738]
+2025-03-03 12:07:15,076 - DEBUG - Done with NW_024055440.1+ [line 1446745]
+2025-03-03 12:07:15,076 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,076 - DEBUG - Seen 22818 genes until now
+2025-03-03 12:07:15,076 - DEBUG - Parsing Chromosome NW_024055441.1 strand + [line 1446746]
+2025-03-03 12:07:15,076 - DEBUG - Done with NW_024055441.1+ [line 1446777]
+2025-03-03 12:07:15,076 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,077 - DEBUG - Seen 22822 genes until now
+2025-03-03 12:07:15,077 - DEBUG - Parsing Chromosome NW_024055442.1 strand - [line 1446778]
+2025-03-03 12:07:15,077 - DEBUG - Done with NW_024055442.1- [line 1446795]
+2025-03-03 12:07:15,077 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,077 - DEBUG - Seen 22824 genes until now
+2025-03-03 12:07:15,077 - DEBUG - Parsing Chromosome NW_024055443.1 strand - [line 1446796]
+2025-03-03 12:07:15,077 - DEBUG - Done with NW_024055443.1- [line 1446800]
+2025-03-03 12:07:15,077 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,077 - DEBUG - Seen 22825 genes until now
+2025-03-03 12:07:15,077 - DEBUG - Parsing Chromosome NW_024055443.1 strand + [line 1446801]
+2025-03-03 12:07:15,077 - DEBUG - Done with NW_024055443.1+ [line 1446830]
+2025-03-03 12:07:15,077 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,077 - DEBUG - Seen 22828 genes until now
+2025-03-03 12:07:15,077 - DEBUG - Parsing Chromosome NW_024055444.1 strand - [line 1446831]
+2025-03-03 12:07:15,077 - DEBUG - Done with NW_024055444.1- [line 1446861]
+2025-03-03 12:07:15,077 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,078 - DEBUG - Seen 22831 genes until now
+2025-03-03 12:07:15,078 - DEBUG - Parsing Chromosome NW_024055445.1 strand + [line 1446862]
+2025-03-03 12:07:15,078 - DEBUG - Done with NW_024055445.1+ [line 1446865]
+2025-03-03 12:07:15,078 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,078 - DEBUG - Seen 22832 genes until now
+2025-03-03 12:07:15,078 - DEBUG - Parsing Chromosome NW_024055447.1 strand - [line 1446866]
+2025-03-03 12:07:15,078 - DEBUG - Done with NW_024055447.1- [line 1446889]
+2025-03-03 12:07:15,078 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,078 - DEBUG - Seen 22835 genes until now
+2025-03-03 12:07:15,078 - DEBUG - Parsing Chromosome NW_024055447.1 strand + [line 1446890]
+2025-03-03 12:07:15,078 - DEBUG - Done with NW_024055447.1+ [line 1446950]
+2025-03-03 12:07:15,078 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,078 - DEBUG - Seen 22841 genes until now
+2025-03-03 12:07:15,078 - DEBUG - Parsing Chromosome NW_024055448.1 strand - [line 1446951]
+2025-03-03 12:07:15,078 - DEBUG - Done with NW_024055448.1- [line 1446961]
+2025-03-03 12:07:15,079 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,079 - DEBUG - Seen 22842 genes until now
+2025-03-03 12:07:15,079 - DEBUG - Parsing Chromosome NW_024055448.1 strand + [line 1446962]
+2025-03-03 12:07:15,079 - DEBUG - Done with NW_024055448.1+ [line 1446977]
+2025-03-03 12:07:15,079 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,079 - DEBUG - Seen 22845 genes until now
+2025-03-03 12:07:15,079 - DEBUG - Parsing Chromosome NW_024055449.1 strand - [line 1446978]
+2025-03-03 12:07:15,079 - DEBUG - Done with NW_024055449.1- [line 1447016]
+2025-03-03 12:07:15,079 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,079 - DEBUG - Seen 22848 genes until now
+2025-03-03 12:07:15,079 - DEBUG - Parsing Chromosome NW_024055449.1 strand + [line 1447017]
+2025-03-03 12:07:15,079 - DEBUG - Done with NW_024055449.1+ [line 1447047]
+2025-03-03 12:07:15,079 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,079 - DEBUG - Seen 22851 genes until now
+2025-03-03 12:07:15,079 - DEBUG - Parsing Chromosome NW_024055450.1 strand - [line 1447048]
+2025-03-03 12:07:15,080 - DEBUG - Done with NW_024055450.1- [line 1447065]
+2025-03-03 12:07:15,080 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,080 - DEBUG - Seen 22854 genes until now
+2025-03-03 12:07:15,080 - DEBUG - Parsing Chromosome NW_024055450.1 strand + [line 1447066]
+2025-03-03 12:07:15,080 - DEBUG - Done with NW_024055450.1+ [line 1447076]
+2025-03-03 12:07:15,080 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,080 - DEBUG - Seen 22856 genes until now
+2025-03-03 12:07:15,080 - DEBUG - Parsing Chromosome NW_024055453.1 strand - [line 1447077]
+2025-03-03 12:07:15,080 - DEBUG - Done with NW_024055453.1- [line 1447111]
+2025-03-03 12:07:15,080 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,080 - DEBUG - Seen 22861 genes until now
+2025-03-03 12:07:15,080 - DEBUG - Parsing Chromosome NW_024055453.1 strand + [line 1447112]
+2025-03-03 12:07:15,080 - DEBUG - Done with NW_024055453.1+ [line 1447163]
+2025-03-03 12:07:15,080 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,081 - DEBUG - Seen 22865 genes until now
+2025-03-03 12:07:15,081 - DEBUG - Parsing Chromosome NW_024055454.1 strand - [line 1447164]
+2025-03-03 12:07:15,081 - DEBUG - Done with NW_024055454.1- [line 1447170]
+2025-03-03 12:07:15,081 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,081 - DEBUG - Seen 22866 genes until now
+2025-03-03 12:07:15,081 - DEBUG - Parsing Chromosome NW_024055454.1 strand + [line 1447171]
+2025-03-03 12:07:15,081 - DEBUG - Done with NW_024055454.1+ [line 1447174]
+2025-03-03 12:07:15,081 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,081 - DEBUG - Seen 22867 genes until now
+2025-03-03 12:07:15,081 - DEBUG - Parsing Chromosome NW_024055456.1 strand - [line 1447175]
+2025-03-03 12:07:15,081 - DEBUG - Done with NW_024055456.1- [line 1447182]
+2025-03-03 12:07:15,081 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,081 - DEBUG - Seen 22869 genes until now
+2025-03-03 12:07:15,081 - DEBUG - Parsing Chromosome NW_024055456.1 strand + [line 1447183]
+2025-03-03 12:07:15,081 - DEBUG - Done with NW_024055456.1+ [line 1447187]
+2025-03-03 12:07:15,081 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,081 - DEBUG - Seen 22870 genes until now
+2025-03-03 12:07:15,081 - DEBUG - Parsing Chromosome NW_024055457.1 strand - [line 1447188]
+2025-03-03 12:07:15,081 - DEBUG - Done with NW_024055457.1- [line 1447198]
+2025-03-03 12:07:15,082 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,082 - DEBUG - Seen 22872 genes until now
+2025-03-03 12:07:15,082 - DEBUG - Parsing Chromosome NW_024055457.1 strand + [line 1447199]
+2025-03-03 12:07:15,082 - DEBUG - Done with NW_024055457.1+ [line 1447199]
+2025-03-03 12:07:15,082 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,082 - DEBUG - Seen 22872 genes until now
+2025-03-03 12:07:15,082 - DEBUG - Parsing Chromosome NW_024055458.1 strand - [line 1447200]
+2025-03-03 12:07:15,082 - DEBUG - Done with NW_024055458.1- [line 1447203]
+2025-03-03 12:07:15,082 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,082 - DEBUG - Seen 22873 genes until now
+2025-03-03 12:07:15,082 - DEBUG - Parsing Chromosome NW_024055458.1 strand + [line 1447204]
+2025-03-03 12:07:15,082 - DEBUG - Done with NW_024055458.1+ [line 1447243]
+2025-03-03 12:07:15,082 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,082 - DEBUG - Seen 22876 genes until now
+2025-03-03 12:07:15,082 - DEBUG - Parsing Chromosome NW_024055460.1 strand + [line 1447244]
+2025-03-03 12:07:15,082 - DEBUG - Done with NW_024055460.1+ [line 1447265]
+2025-03-03 12:07:15,082 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,082 - DEBUG - Seen 22879 genes until now
+2025-03-03 12:07:15,083 - DEBUG - Parsing Chromosome NW_024055461.1 strand - [line 1447266]
+2025-03-03 12:07:15,083 - DEBUG - Done with NW_024055461.1- [line 1447442]
+2025-03-03 12:07:15,083 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,083 - DEBUG - Seen 22900 genes until now
+2025-03-03 12:07:15,083 - DEBUG - Parsing Chromosome NW_024055461.1 strand + [line 1447443]
+2025-03-03 12:07:15,085 - DEBUG - Done with NW_024055461.1+ [line 1447804]
+2025-03-03 12:07:15,085 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,085 - DEBUG - Seen 22932 genes until now
+2025-03-03 12:07:15,085 - DEBUG - Parsing Chromosome NW_024055462.1 strand - [line 1447805]
+2025-03-03 12:07:15,085 - DEBUG - Done with NW_024055462.1- [line 1447848]
+2025-03-03 12:07:15,085 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,085 - DEBUG - Seen 22937 genes until now
+2025-03-03 12:07:15,085 - DEBUG - Parsing Chromosome NW_024055462.1 strand + [line 1447849]
+2025-03-03 12:07:15,086 - DEBUG - Done with NW_024055462.1+ [line 1447874]
+2025-03-03 12:07:15,086 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,086 - DEBUG - Seen 22941 genes until now
+2025-03-03 12:07:15,086 - DEBUG - Parsing Chromosome NW_024055463.1 strand - [line 1447875]
+2025-03-03 12:07:15,086 - DEBUG - Done with NW_024055463.1- [line 1447890]
+2025-03-03 12:07:15,086 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,086 - DEBUG - Seen 22943 genes until now
+2025-03-03 12:07:15,086 - DEBUG - Parsing Chromosome NW_024055463.1 strand + [line 1447891]
+2025-03-03 12:07:15,086 - DEBUG - Done with NW_024055463.1+ [line 1447910]
+2025-03-03 12:07:15,086 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,086 - DEBUG - Seen 22946 genes until now
+2025-03-03 12:07:15,086 - DEBUG - Parsing Chromosome NW_024055464.1 strand - [line 1447911]
+2025-03-03 12:07:15,086 - DEBUG - Done with NW_024055464.1- [line 1447914]
+2025-03-03 12:07:15,086 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,086 - DEBUG - Seen 22947 genes until now
+2025-03-03 12:07:15,086 - DEBUG - Parsing Chromosome NW_024055464.1 strand + [line 1447915]
+2025-03-03 12:07:15,086 - DEBUG - Done with NW_024055464.1+ [line 1447919]
+2025-03-03 12:07:15,086 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,087 - DEBUG - Seen 22948 genes until now
+2025-03-03 12:07:15,087 - DEBUG - Parsing Chromosome NW_024055465.1 strand + [line 1447920]
+2025-03-03 12:07:15,087 - DEBUG - Done with NW_024055465.1+ [line 1447927]
+2025-03-03 12:07:15,087 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,087 - DEBUG - Seen 22950 genes until now
+2025-03-03 12:07:15,087 - DEBUG - Parsing Chromosome NW_024055466.1 strand - [line 1447928]
+2025-03-03 12:07:15,087 - DEBUG - Done with NW_024055466.1- [line 1448054]
+2025-03-03 12:07:15,087 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,087 - DEBUG - Seen 22952 genes until now
+2025-03-03 12:07:15,088 - DEBUG - Parsing Chromosome NW_024055466.1 strand + [line 1448055]
+2025-03-03 12:07:15,088 - DEBUG - Done with NW_024055466.1+ [line 1448112]
+2025-03-03 12:07:15,088 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,088 - DEBUG - Seen 22954 genes until now
+2025-03-03 12:07:15,088 - DEBUG - Parsing Chromosome NW_024055467.1 strand - [line 1448113]
+2025-03-03 12:07:15,088 - DEBUG - Done with NW_024055467.1- [line 1448208]
+2025-03-03 12:07:15,088 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,088 - DEBUG - Seen 22962 genes until now
+2025-03-03 12:07:15,089 - DEBUG - Parsing Chromosome NW_024055467.1 strand + [line 1448209]
+2025-03-03 12:07:15,089 - DEBUG - Done with NW_024055467.1+ [line 1448296]
+2025-03-03 12:07:15,089 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,089 - DEBUG - Seen 22966 genes until now
+2025-03-03 12:07:15,089 - DEBUG - Parsing Chromosome NW_024055468.1 strand + [line 1448297]
+2025-03-03 12:07:15,089 - DEBUG - Done with NW_024055468.1+ [line 1448300]
+2025-03-03 12:07:15,089 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,089 - DEBUG - Seen 22967 genes until now
+2025-03-03 12:07:15,089 - DEBUG - Parsing Chromosome NW_024055469.1 strand - [line 1448301]
+2025-03-03 12:07:15,089 - DEBUG - Done with NW_024055469.1- [line 1448348]
+2025-03-03 12:07:15,089 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,090 - DEBUG - Seen 22972 genes until now
+2025-03-03 12:07:15,090 - DEBUG - Parsing Chromosome NW_024055469.1 strand + [line 1448349]
+2025-03-03 12:07:15,090 - DEBUG - Done with NW_024055469.1+ [line 1448366]
+2025-03-03 12:07:15,090 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,090 - DEBUG - Seen 22974 genes until now
+2025-03-03 12:07:15,090 - DEBUG - Parsing Chromosome NW_024055470.1 strand - [line 1448367]
+2025-03-03 12:07:15,090 - DEBUG - Done with NW_024055470.1- [line 1448391]
+2025-03-03 12:07:15,090 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,090 - DEBUG - Seen 22977 genes until now
+2025-03-03 12:07:15,090 - DEBUG - Parsing Chromosome NW_024055473.1 strand - [line 1448392]
+2025-03-03 12:07:15,090 - DEBUG - Done with NW_024055473.1- [line 1448396]
+2025-03-03 12:07:15,090 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,090 - DEBUG - Seen 22978 genes until now
+2025-03-03 12:07:15,090 - DEBUG - Parsing Chromosome NW_024055473.1 strand + [line 1448397]
+2025-03-03 12:07:15,090 - DEBUG - Done with NW_024055473.1+ [line 1448405]
+2025-03-03 12:07:15,090 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,090 - DEBUG - Seen 22980 genes until now
+2025-03-03 12:07:15,090 - DEBUG - Parsing Chromosome NW_024055475.1 strand - [line 1448406]
+2025-03-03 12:07:15,090 - DEBUG - Done with NW_024055475.1- [line 1448406]
+2025-03-03 12:07:15,091 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,091 - DEBUG - Seen 22980 genes until now
+2025-03-03 12:07:15,091 - DEBUG - Parsing Chromosome NW_024055475.1 strand + [line 1448407]
+2025-03-03 12:07:15,091 - DEBUG - Done with NW_024055475.1+ [line 1448431]
+2025-03-03 12:07:15,091 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,091 - DEBUG - Seen 22984 genes until now
+2025-03-03 12:07:15,091 - DEBUG - Parsing Chromosome NW_024055476.1 strand + [line 1448432]
+2025-03-03 12:07:15,091 - DEBUG - Done with NW_024055476.1+ [line 1448437]
+2025-03-03 12:07:15,091 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,091 - DEBUG - Seen 22985 genes until now
+2025-03-03 12:07:15,091 - DEBUG - Parsing Chromosome NW_024055477.1 strand - [line 1448438]
+2025-03-03 12:07:15,091 - DEBUG - Done with NW_024055477.1- [line 1448465]
+2025-03-03 12:07:15,091 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,091 - DEBUG - Seen 22988 genes until now
+2025-03-03 12:07:15,091 - DEBUG - Parsing Chromosome NW_024055477.1 strand + [line 1448466]
+2025-03-03 12:07:15,092 - DEBUG - Done with NW_024055477.1+ [line 1448497]
+2025-03-03 12:07:15,092 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,092 - DEBUG - Seen 22991 genes until now
+2025-03-03 12:07:15,092 - DEBUG - Parsing Chromosome NW_024055478.1 strand - [line 1448498]
+2025-03-03 12:07:15,092 - DEBUG - Done with NW_024055478.1- [line 1448505]
+2025-03-03 12:07:15,092 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,092 - DEBUG - Seen 22992 genes until now
+2025-03-03 12:07:15,092 - DEBUG - Parsing Chromosome NW_024055478.1 strand + [line 1448506]
+2025-03-03 12:07:15,092 - DEBUG - Done with NW_024055478.1+ [line 1448516]
+2025-03-03 12:07:15,092 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,092 - DEBUG - Seen 22994 genes until now
+2025-03-03 12:07:15,092 - DEBUG - Parsing Chromosome NW_024055479.1 strand - [line 1448517]
+2025-03-03 12:07:15,092 - DEBUG - Done with NW_024055479.1- [line 1448543]
+2025-03-03 12:07:15,092 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,092 - DEBUG - Seen 22997 genes until now
+2025-03-03 12:07:15,092 - DEBUG - Parsing Chromosome NW_024055479.1 strand + [line 1448544]
+2025-03-03 12:07:15,092 - DEBUG - Done with NW_024055479.1+ [line 1448549]
+2025-03-03 12:07:15,092 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,093 - DEBUG - Seen 22998 genes until now
+2025-03-03 12:07:15,093 - DEBUG - Parsing Chromosome NW_024055480.1 strand - [line 1448550]
+2025-03-03 12:07:15,093 - DEBUG - Done with NW_024055480.1- [line 1448555]
+2025-03-03 12:07:15,093 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,093 - DEBUG - Seen 22999 genes until now
+2025-03-03 12:07:15,093 - DEBUG - Parsing Chromosome NW_024055481.1 strand + [line 1448556]
+2025-03-03 12:07:15,093 - DEBUG - Done with NW_024055481.1+ [line 1448601]
+2025-03-03 12:07:15,093 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,093 - DEBUG - Seen 23000 genes until now
+2025-03-03 12:07:15,093 - DEBUG - Parsing Chromosome NW_024055482.1 strand + [line 1448602]
+2025-03-03 12:07:15,093 - DEBUG - Done with NW_024055482.1+ [line 1448609]
+2025-03-03 12:07:15,093 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,093 - DEBUG - Seen 23001 genes until now
+2025-03-03 12:07:15,093 - DEBUG - Parsing Chromosome NW_024055484.1 strand + [line 1448610]
+2025-03-03 12:07:15,093 - DEBUG - Done with NW_024055484.1+ [line 1448610]
+2025-03-03 12:07:15,093 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,093 - DEBUG - Seen 23001 genes until now
+2025-03-03 12:07:15,093 - DEBUG - Parsing Chromosome NW_024055487.1 strand - [line 1448611]
+2025-03-03 12:07:15,093 - DEBUG - Done with NW_024055487.1- [line 1448611]
+2025-03-03 12:07:15,093 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,094 - DEBUG - Seen 23001 genes until now
+2025-03-03 12:07:15,094 - DEBUG - Parsing Chromosome NW_024055487.1 strand + [line 1448612]
+2025-03-03 12:07:15,094 - DEBUG - Done with NW_024055487.1+ [line 1448629]
+2025-03-03 12:07:15,094 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,094 - DEBUG - Seen 23003 genes until now
+2025-03-03 12:07:15,094 - DEBUG - Parsing Chromosome NW_024055489.1 strand + [line 1448630]
+2025-03-03 12:07:15,094 - DEBUG - Done with NW_024055489.1+ [line 1448634]
+2025-03-03 12:07:15,094 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,094 - DEBUG - Seen 23004 genes until now
+2025-03-03 12:07:15,094 - DEBUG - Parsing Chromosome NW_024055490.1 strand - [line 1448635]
+2025-03-03 12:07:15,094 - DEBUG - Done with NW_024055490.1- [line 1448652]
+2025-03-03 12:07:15,094 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,094 - DEBUG - Seen 23008 genes until now
+2025-03-03 12:07:15,094 - DEBUG - Parsing Chromosome NW_024055490.1 strand + [line 1448653]
+2025-03-03 12:07:15,095 - DEBUG - Done with NW_024055490.1+ [line 1448738]
+2025-03-03 12:07:15,095 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,095 - DEBUG - Seen 23013 genes until now
+2025-03-03 12:07:15,095 - DEBUG - Parsing Chromosome NW_024055491.1 strand - [line 1448739]
+2025-03-03 12:07:15,095 - DEBUG - Done with NW_024055491.1- [line 1448785]
+2025-03-03 12:07:15,095 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,095 - DEBUG - Seen 23021 genes until now
+2025-03-03 12:07:15,095 - DEBUG - Parsing Chromosome NW_024055491.1 strand + [line 1448786]
+2025-03-03 12:07:15,095 - DEBUG - Done with NW_024055491.1+ [line 1448809]
+2025-03-03 12:07:15,095 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,095 - DEBUG - Seen 23023 genes until now
+2025-03-03 12:07:15,095 - DEBUG - Parsing Chromosome NW_024055492.1 strand - [line 1448810]
+2025-03-03 12:07:15,096 - DEBUG - Done with NW_024055492.1- [line 1448855]
+2025-03-03 12:07:15,096 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,096 - DEBUG - Seen 23030 genes until now
+2025-03-03 12:07:15,096 - DEBUG - Parsing Chromosome NW_024055492.1 strand + [line 1448856]
+2025-03-03 12:07:15,096 - DEBUG - Done with NW_024055492.1+ [line 1448870]
+2025-03-03 12:07:15,096 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,096 - DEBUG - Seen 23032 genes until now
+2025-03-03 12:07:15,096 - DEBUG - Parsing Chromosome NW_024055493.1 strand - [line 1448871]
+2025-03-03 12:07:15,096 - DEBUG - Done with NW_024055493.1- [line 1448904]
+2025-03-03 12:07:15,096 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,096 - DEBUG - Seen 23035 genes until now
+2025-03-03 12:07:15,096 - DEBUG - Parsing Chromosome NW_024055493.1 strand + [line 1448905]
+2025-03-03 12:07:15,097 - DEBUG - Done with NW_024055493.1+ [line 1448975]
+2025-03-03 12:07:15,097 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,097 - DEBUG - Seen 23040 genes until now
+2025-03-03 12:07:15,097 - DEBUG - Parsing Chromosome NW_024055494.1 strand - [line 1448976]
+2025-03-03 12:07:15,098 - DEBUG - Done with NW_024055494.1- [line 1449039]
+2025-03-03 12:07:15,098 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,098 - DEBUG - Seen 23048 genes until now
+2025-03-03 12:07:15,098 - DEBUG - Parsing Chromosome NW_024055494.1 strand + [line 1449040]
+2025-03-03 12:07:15,098 - DEBUG - Done with NW_024055494.1+ [line 1449097]
+2025-03-03 12:07:15,098 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,098 - DEBUG - Seen 23053 genes until now
+2025-03-03 12:07:15,098 - DEBUG - Parsing Chromosome NW_024055496.1 strand + [line 1449098]
+2025-03-03 12:07:15,098 - DEBUG - Done with NW_024055496.1+ [line 1449102]
+2025-03-03 12:07:15,098 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,098 - DEBUG - Seen 23054 genes until now
+2025-03-03 12:07:15,099 - DEBUG - Parsing Chromosome NW_024055497.1 strand - [line 1449103]
+2025-03-03 12:07:15,099 - DEBUG - Done with NW_024055497.1- [line 1449234]
+2025-03-03 12:07:15,099 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,099 - DEBUG - Seen 23067 genes until now
+2025-03-03 12:07:15,099 - DEBUG - Parsing Chromosome NW_024055497.1 strand + [line 1449235]
+2025-03-03 12:07:15,100 - DEBUG - Done with NW_024055497.1+ [line 1449361]
+2025-03-03 12:07:15,100 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,100 - DEBUG - Seen 23077 genes until now
+2025-03-03 12:07:15,100 - DEBUG - Parsing Chromosome NW_024055498.1 strand - [line 1449362]
+2025-03-03 12:07:15,101 - DEBUG - Done with NW_024055498.1- [line 1449628]
+2025-03-03 12:07:15,101 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,101 - DEBUG - Seen 23104 genes until now
+2025-03-03 12:07:15,101 - DEBUG - Parsing Chromosome NW_024055498.1 strand + [line 1449629]
+2025-03-03 12:07:15,102 - DEBUG - Done with NW_024055498.1+ [line 1449850]
+2025-03-03 12:07:15,102 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,102 - DEBUG - Seen 23125 genes until now
+2025-03-03 12:07:15,102 - DEBUG - Parsing Chromosome NW_024055499.1 strand - [line 1449851]
+2025-03-03 12:07:15,103 - DEBUG - Done with NW_024055499.1- [line 1449939]
+2025-03-03 12:07:15,103 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,103 - DEBUG - Seen 23132 genes until now
+2025-03-03 12:07:15,103 - DEBUG - Parsing Chromosome NW_024055499.1 strand + [line 1449940]
+2025-03-03 12:07:15,103 - DEBUG - Done with NW_024055499.1+ [line 1450052]
+2025-03-03 12:07:15,103 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,103 - DEBUG - Seen 23140 genes until now
+2025-03-03 12:07:15,103 - DEBUG - Parsing Chromosome NW_024055500.1 strand - [line 1450053]
+2025-03-03 12:07:15,104 - DEBUG - Done with NW_024055500.1- [line 1450230]
+2025-03-03 12:07:15,104 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,104 - DEBUG - Seen 23152 genes until now
+2025-03-03 12:07:15,104 - DEBUG - Parsing Chromosome NW_024055500.1 strand + [line 1450231]
+2025-03-03 12:07:15,106 - DEBUG - Done with NW_024055500.1+ [line 1450693]
+2025-03-03 12:07:15,106 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,106 - DEBUG - Seen 23173 genes until now
+2025-03-03 12:07:15,106 - DEBUG - Parsing Chromosome NW_024055501.1 strand + [line 1450694]
+2025-03-03 12:07:15,106 - DEBUG - Done with NW_024055501.1+ [line 1450699]
+2025-03-03 12:07:15,106 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,106 - DEBUG - Seen 23174 genes until now
+2025-03-03 12:07:15,106 - DEBUG - Parsing Chromosome NW_024055508.1 strand - [line 1450700]
+2025-03-03 12:07:15,106 - DEBUG - Done with NW_024055508.1- [line 1450707]
+2025-03-03 12:07:15,106 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,106 - DEBUG - Seen 23175 genes until now
+2025-03-03 12:07:15,106 - DEBUG - Parsing Chromosome NW_024055508.1 strand + [line 1450708]
+2025-03-03 12:07:15,107 - DEBUG - Done with NW_024055508.1+ [line 1450715]
+2025-03-03 12:07:15,107 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,107 - DEBUG - Seen 23176 genes until now
+2025-03-03 12:07:15,107 - DEBUG - Parsing Chromosome NW_024055513.1 strand - [line 1450716]
+2025-03-03 12:07:15,107 - DEBUG - Done with NW_024055513.1- [line 1450723]
+2025-03-03 12:07:15,107 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,107 - DEBUG - Seen 23177 genes until now
+2025-03-03 12:07:15,107 - DEBUG - Parsing Chromosome NW_024055515.1 strand - [line 1450724]
+2025-03-03 12:07:15,107 - DEBUG - Done with NW_024055515.1- [line 1450731]
+2025-03-03 12:07:15,107 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,107 - DEBUG - Seen 23178 genes until now
+2025-03-03 12:07:15,107 - DEBUG - Parsing Chromosome NW_024055517.1 strand - [line 1450732]
+2025-03-03 12:07:15,107 - DEBUG - Done with NW_024055517.1- [line 1450736]
+2025-03-03 12:07:15,107 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,107 - DEBUG - Seen 23179 genes until now
+2025-03-03 12:07:15,107 - DEBUG - Parsing Chromosome NW_024055518.1 strand + [line 1450737]
+2025-03-03 12:07:15,107 - DEBUG - Done with NW_024055518.1+ [line 1450741]
+2025-03-03 12:07:15,107 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,107 - DEBUG - Seen 23180 genes until now
+2025-03-03 12:07:15,107 - DEBUG - Parsing Chromosome NW_024055522.1 strand - [line 1450742]
+2025-03-03 12:07:15,107 - DEBUG - Done with NW_024055522.1- [line 1450746]
+2025-03-03 12:07:15,108 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,108 - DEBUG - Seen 23181 genes until now
+2025-03-03 12:07:15,108 - DEBUG - Parsing Chromosome NW_024055523.1 strand - [line 1450747]
+2025-03-03 12:07:15,108 - DEBUG - Done with NW_024055523.1- [line 1450751]
+2025-03-03 12:07:15,108 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,108 - DEBUG - Seen 23182 genes until now
+2025-03-03 12:07:15,108 - DEBUG - Parsing Chromosome NW_024055524.1 strand - [line 1450752]
+2025-03-03 12:07:15,108 - DEBUG - Done with NW_024055524.1- [line 1450756]
+2025-03-03 12:07:15,108 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,108 - DEBUG - Seen 23183 genes until now
+2025-03-03 12:07:15,108 - DEBUG - Parsing Chromosome NW_024055525.1 strand + [line 1450757]
+2025-03-03 12:07:15,108 - DEBUG - Done with NW_024055525.1+ [line 1450761]
+2025-03-03 12:07:15,108 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,108 - DEBUG - Seen 23184 genes until now
+2025-03-03 12:07:15,108 - DEBUG - Parsing Chromosome NW_024055526.1 strand + [line 1450762]
+2025-03-03 12:07:15,108 - DEBUG - Done with NW_024055526.1+ [line 1450766]
+2025-03-03 12:07:15,108 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,108 - DEBUG - Seen 23185 genes until now
+2025-03-03 12:07:15,108 - DEBUG - Parsing Chromosome NW_024055527.1 strand + [line 1450767]
+2025-03-03 12:07:15,108 - DEBUG - Done with NW_024055527.1+ [line 1450771]
+2025-03-03 12:07:15,108 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,109 - DEBUG - Seen 23186 genes until now
+2025-03-03 12:07:15,109 - DEBUG - Parsing Chromosome NW_024055529.1 strand - [line 1450772]
+2025-03-03 12:07:15,109 - DEBUG - Done with NW_024055529.1- [line 1450776]
+2025-03-03 12:07:15,109 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,109 - DEBUG - Seen 23187 genes until now
+2025-03-03 12:07:15,109 - DEBUG - Parsing Chromosome NW_024055531.1 strand - [line 1450777]
+2025-03-03 12:07:15,109 - DEBUG - Done with NW_024055531.1- [line 1450781]
+2025-03-03 12:07:15,109 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,109 - DEBUG - Seen 23188 genes until now
+2025-03-03 12:07:15,109 - DEBUG - Parsing Chromosome NW_024055538.1 strand + [line 1450782]
+2025-03-03 12:07:15,109 - DEBUG - Done with NW_024055538.1+ [line 1450786]
+2025-03-03 12:07:15,109 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,109 - DEBUG - Seen 23189 genes until now
+2025-03-03 12:07:15,109 - DEBUG - Parsing Chromosome NW_024055541.1 strand - [line 1450787]
+2025-03-03 12:07:15,109 - DEBUG - Done with NW_024055541.1- [line 1450793]
+2025-03-03 12:07:15,109 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,109 - DEBUG - Seen 23190 genes until now
+2025-03-03 12:07:15,109 - DEBUG - Parsing Chromosome NW_024055542.1 strand - [line 1450794]
+2025-03-03 12:07:15,109 - DEBUG - Done with NW_024055542.1- [line 1450803]
+2025-03-03 12:07:15,109 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,109 - DEBUG - Seen 23192 genes until now
+2025-03-03 12:07:15,109 - DEBUG - Parsing Chromosome NW_024055542.1 strand + [line 1450804]
+2025-03-03 12:07:15,110 - DEBUG - Done with NW_024055542.1+ [line 1450808]
+2025-03-03 12:07:15,110 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,110 - DEBUG - Seen 23193 genes until now
+2025-03-03 12:07:15,110 - DEBUG - Parsing Chromosome NW_024055543.1 strand + [line 1450809]
+2025-03-03 12:07:15,110 - DEBUG - Done with NW_024055543.1+ [line 1450813]
+2025-03-03 12:07:15,110 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,110 - DEBUG - Seen 23194 genes until now
+2025-03-03 12:07:15,110 - DEBUG - Parsing Chromosome NW_024055582.1 strand - [line 1450814]
+2025-03-03 12:07:15,110 - DEBUG - Done with NW_024055582.1- [line 1450814]
+2025-03-03 12:07:15,110 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,110 - DEBUG - Seen 23194 genes until now
+2025-03-03 12:07:15,110 - DEBUG - Parsing Chromosome NW_024055585.1 strand + [line 1450815]
+2025-03-03 12:07:15,110 - DEBUG - Done with NW_024055585.1+ [line 1450819]
+2025-03-03 12:07:15,110 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,110 - DEBUG - Seen 23195 genes until now
+2025-03-03 12:07:15,110 - DEBUG - Parsing Chromosome NW_024055587.1 strand - [line 1450820]
+2025-03-03 12:07:15,110 - DEBUG - Done with NW_024055587.1- [line 1450824]
+2025-03-03 12:07:15,110 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,110 - DEBUG - Seen 23196 genes until now
+2025-03-03 12:07:15,110 - DEBUG - Parsing Chromosome NW_024055589.1 strand - [line 1450825]
+2025-03-03 12:07:15,110 - DEBUG - Done with NW_024055589.1- [line 1450829]
+2025-03-03 12:07:15,110 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,111 - DEBUG - Seen 23197 genes until now
+2025-03-03 12:07:15,111 - DEBUG - Parsing Chromosome NW_024055591.1 strand + [line 1450830]
+2025-03-03 12:07:15,111 - DEBUG - Done with NW_024055591.1+ [line 1450851]
+2025-03-03 12:07:15,111 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,111 - DEBUG - Seen 23198 genes until now
+2025-03-03 12:07:15,111 - DEBUG - Parsing Chromosome NW_024055618.1 strand - [line 1450852]
+2025-03-03 12:07:15,111 - DEBUG - Done with NW_024055618.1- [line 1450856]
+2025-03-03 12:07:15,111 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,111 - DEBUG - Seen 23199 genes until now
+2025-03-03 12:07:15,111 - DEBUG - Parsing Chromosome NW_024055619.1 strand + [line 1450857]
+2025-03-03 12:07:15,111 - DEBUG - Done with NW_024055619.1+ [line 1450861]
+2025-03-03 12:07:15,111 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,111 - DEBUG - Seen 23200 genes until now
+2025-03-03 12:07:15,111 - DEBUG - Parsing Chromosome NW_024055620.1 strand - [line 1450862]
+2025-03-03 12:07:15,111 - DEBUG - Done with NW_024055620.1- [line 1450865]
+2025-03-03 12:07:15,111 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,111 - DEBUG - Seen 23201 genes until now
+2025-03-03 12:07:15,111 - DEBUG - Parsing Chromosome NW_024055632.1 strand + [line 1450866]
+2025-03-03 12:07:15,111 - DEBUG - Done with NW_024055632.1+ [line 1450869]
+2025-03-03 12:07:15,112 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,112 - DEBUG - Seen 23202 genes until now
+2025-03-03 12:07:15,112 - DEBUG - Parsing Chromosome NW_024055640.1 strand + [line 1450870]
+2025-03-03 12:07:15,112 - DEBUG - Done with NW_024055640.1+ [line 1450874]
+2025-03-03 12:07:15,112 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,112 - DEBUG - Seen 23203 genes until now
+2025-03-03 12:07:15,112 - DEBUG - Parsing Chromosome NW_024055654.1 strand - [line 1450875]
+2025-03-03 12:07:15,113 - DEBUG - Done with NW_024055654.1- [line 1451085]
+2025-03-03 12:07:15,113 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,113 - DEBUG - Seen 23215 genes until now
+2025-03-03 12:07:15,113 - DEBUG - Parsing Chromosome NW_024055654.1 strand + [line 1451086]
+2025-03-03 12:07:15,114 - DEBUG - Done with NW_024055654.1+ [line 1451268]
+2025-03-03 12:07:15,114 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,114 - DEBUG - Seen 23229 genes until now
+2025-03-03 12:07:15,114 - DEBUG - Parsing Chromosome NW_024055665.1 strand - [line 1451269]
+2025-03-03 12:07:15,114 - DEBUG - Done with NW_024055665.1- [line 1451284]
+2025-03-03 12:07:15,114 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,114 - DEBUG - Seen 23232 genes until now
+2025-03-03 12:07:15,114 - DEBUG - Parsing Chromosome NW_024055665.1 strand + [line 1451285]
+2025-03-03 12:07:15,114 - DEBUG - Done with NW_024055665.1+ [line 1451318]
+2025-03-03 12:07:15,114 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,114 - DEBUG - Seen 23237 genes until now
+2025-03-03 12:07:15,114 - DEBUG - Parsing Chromosome NW_024055668.1 strand - [line 1451319]
+2025-03-03 12:07:15,114 - DEBUG - Done with NW_024055668.1- [line 1451325]
+2025-03-03 12:07:15,114 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,114 - DEBUG - Seen 23238 genes until now
+2025-03-03 12:07:15,114 - DEBUG - Parsing Chromosome NW_024055669.1 strand + [line 1451326]
+2025-03-03 12:07:15,114 - DEBUG - Done with NW_024055669.1+ [line 1451330]
+2025-03-03 12:07:15,115 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,115 - DEBUG - Seen 23239 genes until now
+2025-03-03 12:07:15,115 - DEBUG - Parsing Chromosome NW_024055676.1 strand - [line 1451331]
+2025-03-03 12:07:15,115 - DEBUG - Done with NW_024055676.1- [line 1451512]
+2025-03-03 12:07:15,115 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,116 - DEBUG - Seen 23246 genes until now
+2025-03-03 12:07:15,116 - DEBUG - Parsing Chromosome NW_024055676.1 strand + [line 1451513]
+2025-03-03 12:07:15,116 - DEBUG - Done with NW_024055676.1+ [line 1451620]
+2025-03-03 12:07:15,116 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,116 - DEBUG - Seen 23254 genes until now
+2025-03-03 12:07:15,116 - DEBUG - Parsing Chromosome NW_024055690.1 strand - [line 1451621]
+2025-03-03 12:07:15,116 - DEBUG - Done with NW_024055690.1- [line 1451626]
+2025-03-03 12:07:15,116 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,116 - DEBUG - Seen 23255 genes until now
+2025-03-03 12:07:15,116 - DEBUG - Parsing Chromosome NW_024055693.1 strand + [line 1451627]
+2025-03-03 12:07:15,116 - DEBUG - Done with NW_024055693.1+ [line 1451640]
+2025-03-03 12:07:15,116 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,116 - DEBUG - Seen 23257 genes until now
+2025-03-03 12:07:15,116 - DEBUG - Parsing Chromosome NW_024055696.1 strand + [line 1451641]
+2025-03-03 12:07:15,117 - DEBUG - Done with NW_024055696.1+ [line 1451648]
+2025-03-03 12:07:15,117 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,117 - DEBUG - Seen 23258 genes until now
+2025-03-03 12:07:15,117 - DEBUG - Parsing Chromosome NW_024055702.1 strand - [line 1451649]
+2025-03-03 12:07:15,117 - DEBUG - Done with NW_024055702.1- [line 1451655]
+2025-03-03 12:07:15,117 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,117 - DEBUG - Seen 23259 genes until now
+2025-03-03 12:07:15,117 - DEBUG - Parsing Chromosome NW_024055707.1 strand + [line 1451656]
+2025-03-03 12:07:15,117 - DEBUG - Done with NW_024055707.1+ [line 1451660]
+2025-03-03 12:07:15,117 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,117 - DEBUG - Seen 23260 genes until now
+2025-03-03 12:07:15,117 - DEBUG - Parsing Chromosome NW_024055709.1 strand - [line 1451661]
+2025-03-03 12:07:15,117 - DEBUG - Done with NW_024055709.1- [line 1451713]
+2025-03-03 12:07:15,117 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,117 - DEBUG - Seen 23264 genes until now
+2025-03-03 12:07:15,117 - DEBUG - Parsing Chromosome NW_024055709.1 strand + [line 1451714]
+2025-03-03 12:07:15,118 - DEBUG - Done with NW_024055709.1+ [line 1451714]
+2025-03-03 12:07:15,118 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,118 - DEBUG - Seen 23264 genes until now
+2025-03-03 12:07:15,118 - DEBUG - Parsing Chromosome NW_024055711.1 strand + [line 1451715]
+2025-03-03 12:07:15,118 - DEBUG - Done with NW_024055711.1+ [line 1451724]
+2025-03-03 12:07:15,118 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,118 - DEBUG - Seen 23265 genes until now
+2025-03-03 12:07:15,118 - DEBUG - Parsing Chromosome NW_024055717.1 strand - [line 1451725]
+2025-03-03 12:07:15,118 - DEBUG - Done with NW_024055717.1- [line 1451763]
+2025-03-03 12:07:15,118 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,118 - DEBUG - Seen 23268 genes until now
+2025-03-03 12:07:15,118 - DEBUG - Parsing Chromosome NW_024055717.1 strand + [line 1451764]
+2025-03-03 12:07:15,118 - DEBUG - Done with NW_024055717.1+ [line 1451786]
+2025-03-03 12:07:15,118 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,118 - DEBUG - Seen 23271 genes until now
+2025-03-03 12:07:15,118 - DEBUG - Parsing Chromosome NW_024055718.1 strand - [line 1451787]
+2025-03-03 12:07:15,118 - DEBUG - Done with NW_024055718.1- [line 1451805]
+2025-03-03 12:07:15,119 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,119 - DEBUG - Seen 23274 genes until now
+2025-03-03 12:07:15,119 - DEBUG - Parsing Chromosome NW_024055718.1 strand + [line 1451806]
+2025-03-03 12:07:15,119 - DEBUG - Done with NW_024055718.1+ [line 1451816]
+2025-03-03 12:07:15,119 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,119 - DEBUG - Seen 23276 genes until now
+2025-03-03 12:07:15,119 - DEBUG - Parsing Chromosome NW_024055719.1 strand - [line 1451817]
+2025-03-03 12:07:15,119 - DEBUG - Done with NW_024055719.1- [line 1451828]
+2025-03-03 12:07:15,119 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,119 - DEBUG - Seen 23278 genes until now
+2025-03-03 12:07:15,119 - DEBUG - Parsing Chromosome NW_024055719.1 strand + [line 1451829]
+2025-03-03 12:07:15,119 - DEBUG - Done with NW_024055719.1+ [line 1451838]
+2025-03-03 12:07:15,119 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,119 - DEBUG - Seen 23280 genes until now
+2025-03-03 12:07:15,119 - DEBUG - Parsing Chromosome NW_024055720.1 strand - [line 1451839]
+2025-03-03 12:07:15,119 - DEBUG - Done with NW_024055720.1- [line 1451852]
+2025-03-03 12:07:15,119 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,119 - DEBUG - Seen 23283 genes until now
+2025-03-03 12:07:15,119 - DEBUG - Parsing Chromosome NW_024055720.1 strand + [line 1451853]
+2025-03-03 12:07:15,120 - DEBUG - Done with NW_024055720.1+ [line 1451860]
+2025-03-03 12:07:15,120 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,120 - DEBUG - Seen 23284 genes until now
+2025-03-03 12:07:15,120 - DEBUG - Parsing Chromosome NW_024055723.1 strand - [line 1451861]
+2025-03-03 12:07:15,120 - DEBUG - Done with NW_024055723.1- [line 1451866]
+2025-03-03 12:07:15,120 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,120 - DEBUG - Seen 23285 genes until now
+2025-03-03 12:07:15,120 - DEBUG - Parsing Chromosome NW_024055726.1 strand - [line 1451867]
+2025-03-03 12:07:15,120 - DEBUG - Done with NW_024055726.1- [line 1451901]
+2025-03-03 12:07:15,120 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,120 - DEBUG - Seen 23288 genes until now
+2025-03-03 12:07:15,120 - DEBUG - Parsing Chromosome NW_024055726.1 strand + [line 1451902]
+2025-03-03 12:07:15,120 - DEBUG - Done with NW_024055726.1+ [line 1451919]
+2025-03-03 12:07:15,120 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,120 - DEBUG - Seen 23292 genes until now
+2025-03-03 12:07:15,120 - DEBUG - Parsing Chromosome NW_024055727.1 strand - [line 1451920]
+2025-03-03 12:07:15,122 - DEBUG - Done with NW_024055727.1- [line 1452411]
+2025-03-03 12:07:15,123 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,123 - DEBUG - Seen 23294 genes until now
+2025-03-03 12:07:15,123 - DEBUG - Parsing Chromosome NW_024055727.1 strand + [line 1452412]
+2025-03-03 12:07:15,123 - DEBUG - Done with NW_024055727.1+ [line 1452493]
+2025-03-03 12:07:15,123 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,123 - DEBUG - Seen 23295 genes until now
+2025-03-03 12:07:15,123 - DEBUG - Parsing Chromosome NW_024055728.1 strand - [line 1452494]
+2025-03-03 12:07:15,124 - DEBUG - Done with NW_024055728.1- [line 1452791]
+2025-03-03 12:07:15,124 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,124 - DEBUG - Seen 23311 genes until now
+2025-03-03 12:07:15,124 - DEBUG - Parsing Chromosome NW_024055728.1 strand + [line 1452792]
+2025-03-03 12:07:15,125 - DEBUG - Done with NW_024055728.1+ [line 1452821]
+2025-03-03 12:07:15,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,125 - DEBUG - Seen 23316 genes until now
+2025-03-03 12:07:15,125 - DEBUG - Parsing Chromosome NW_024055730.1 strand - [line 1452822]
+2025-03-03 12:07:15,125 - DEBUG - Done with NW_024055730.1- [line 1452840]
+2025-03-03 12:07:15,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,125 - DEBUG - Seen 23319 genes until now
+2025-03-03 12:07:15,125 - DEBUG - Parsing Chromosome NW_024055730.1 strand + [line 1452841]
+2025-03-03 12:07:15,125 - DEBUG - Done with NW_024055730.1+ [line 1452841]
+2025-03-03 12:07:15,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,125 - DEBUG - Seen 23319 genes until now
+2025-03-03 12:07:15,125 - DEBUG - Parsing Chromosome NW_024055732.1 strand - [line 1452842]
+2025-03-03 12:07:15,125 - DEBUG - Done with NW_024055732.1- [line 1452848]
+2025-03-03 12:07:15,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,125 - DEBUG - Seen 23320 genes until now
+2025-03-03 12:07:15,125 - DEBUG - Parsing Chromosome NW_024055732.1 strand + [line 1452849]
+2025-03-03 12:07:15,125 - DEBUG - Done with NW_024055732.1+ [line 1452877]
+2025-03-03 12:07:15,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,126 - DEBUG - Seen 23325 genes until now
+2025-03-03 12:07:15,126 - DEBUG - Parsing Chromosome NW_024055733.1 strand - [line 1452878]
+2025-03-03 12:07:15,126 - DEBUG - Done with NW_024055733.1- [line 1453012]
+2025-03-03 12:07:15,126 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,126 - DEBUG - Seen 23330 genes until now
+2025-03-03 12:07:15,126 - DEBUG - Parsing Chromosome NW_024055733.1 strand + [line 1453013]
+2025-03-03 12:07:15,126 - DEBUG - Done with NW_024055733.1+ [line 1453046]
+2025-03-03 12:07:15,126 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,127 - DEBUG - Seen 23335 genes until now
+2025-03-03 12:07:15,127 - DEBUG - Parsing Chromosome NW_024055734.1 strand - [line 1453047]
+2025-03-03 12:07:15,127 - DEBUG - Done with NW_024055734.1- [line 1453227]
+2025-03-03 12:07:15,127 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,127 - DEBUG - Seen 23346 genes until now
+2025-03-03 12:07:15,128 - DEBUG - Parsing Chromosome NW_024055734.1 strand + [line 1453228]
+2025-03-03 12:07:15,128 - DEBUG - Done with NW_024055734.1+ [line 1453378]
+2025-03-03 12:07:15,128 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,128 - DEBUG - Seen 23359 genes until now
+2025-03-03 12:07:15,128 - DEBUG - Parsing Chromosome NW_024055736.1 strand - [line 1453379]
+2025-03-03 12:07:15,128 - DEBUG - Done with NW_024055736.1- [line 1453383]
+2025-03-03 12:07:15,128 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,128 - DEBUG - Seen 23360 genes until now
+2025-03-03 12:07:15,128 - DEBUG - Parsing Chromosome NW_024055740.1 strand - [line 1453384]
+2025-03-03 12:07:15,128 - DEBUG - Done with NW_024055740.1- [line 1453391]
+2025-03-03 12:07:15,129 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,129 - DEBUG - Seen 23361 genes until now
+2025-03-03 12:07:15,129 - DEBUG - Parsing Chromosome NW_024055740.1 strand + [line 1453392]
+2025-03-03 12:07:15,129 - DEBUG - Done with NW_024055740.1+ [line 1453418]
+2025-03-03 12:07:15,129 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,129 - DEBUG - Seen 23363 genes until now
+2025-03-03 12:07:15,129 - DEBUG - Parsing Chromosome NW_024055743.1 strand + [line 1453419]
+2025-03-03 12:07:15,129 - DEBUG - Done with NW_024055743.1+ [line 1453426]
+2025-03-03 12:07:15,129 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,129 - DEBUG - Seen 23364 genes until now
+2025-03-03 12:07:15,129 - DEBUG - Parsing Chromosome NW_024055744.1 strand - [line 1453427]
+2025-03-03 12:07:15,130 - DEBUG - Done with NW_024055744.1- [line 1453651]
+2025-03-03 12:07:15,130 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,130 - DEBUG - Seen 23388 genes until now
+2025-03-03 12:07:15,130 - DEBUG - Parsing Chromosome NW_024055744.1 strand + [line 1453652]
+2025-03-03 12:07:15,131 - DEBUG - Done with NW_024055744.1+ [line 1453887]
+2025-03-03 12:07:15,131 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,131 - DEBUG - Seen 23417 genes until now
+2025-03-03 12:07:15,131 - DEBUG - Parsing Chromosome NW_024055747.1 strand + [line 1453888]
+2025-03-03 12:07:15,131 - DEBUG - Done with NW_024055747.1+ [line 1453910]
+2025-03-03 12:07:15,131 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,131 - DEBUG - Seen 23418 genes until now
+2025-03-03 12:07:15,132 - DEBUG - Parsing Chromosome NW_024055750.1 strand + [line 1453911]
+2025-03-03 12:07:15,132 - DEBUG - Done with NW_024055750.1+ [line 1453938]
+2025-03-03 12:07:15,132 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,132 - DEBUG - Seen 23419 genes until now
+2025-03-03 12:07:15,132 - DEBUG - Parsing Chromosome NW_024055751.1 strand - [line 1453939]
+2025-03-03 12:07:15,132 - DEBUG - Done with NW_024055751.1- [line 1454045]
+2025-03-03 12:07:15,132 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,132 - DEBUG - Seen 23424 genes until now
+2025-03-03 12:07:15,132 - DEBUG - Parsing Chromosome NW_024055751.1 strand + [line 1454046]
+2025-03-03 12:07:15,133 - DEBUG - Done with NW_024055751.1+ [line 1454172]
+2025-03-03 12:07:15,133 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,133 - DEBUG - Seen 23432 genes until now
+2025-03-03 12:07:15,133 - DEBUG - Parsing Chromosome NW_024055755.1 strand - [line 1454173]
+2025-03-03 12:07:15,133 - DEBUG - Done with NW_024055755.1- [line 1454186]
+2025-03-03 12:07:15,133 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,133 - DEBUG - Seen 23433 genes until now
+2025-03-03 12:07:15,133 - DEBUG - Parsing Chromosome NW_024055756.1 strand + [line 1454187]
+2025-03-03 12:07:15,133 - DEBUG - Done with NW_024055756.1+ [line 1454195]
+2025-03-03 12:07:15,133 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,133 - DEBUG - Seen 23434 genes until now
+2025-03-03 12:07:15,133 - DEBUG - Parsing Chromosome NW_024055758.1 strand + [line 1454196]
+2025-03-03 12:07:15,134 - DEBUG - Done with NW_024055758.1+ [line 1454208]
+2025-03-03 12:07:15,134 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,134 - DEBUG - Seen 23435 genes until now
+2025-03-03 12:07:15,134 - DEBUG - Parsing Chromosome NW_024055759.1 strand + [line 1454209]
+2025-03-03 12:07:15,134 - DEBUG - Done with NW_024055759.1+ [line 1454217]
+2025-03-03 12:07:15,134 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,134 - DEBUG - Seen 23436 genes until now
+2025-03-03 12:07:15,134 - DEBUG - Parsing Chromosome NW_024055760.1 strand - [line 1454218]
+2025-03-03 12:07:15,134 - DEBUG - Done with NW_024055760.1- [line 1454333]
+2025-03-03 12:07:15,134 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,134 - DEBUG - Seen 23446 genes until now
+2025-03-03 12:07:15,135 - DEBUG - Parsing Chromosome NW_024055760.1 strand + [line 1454334]
+2025-03-03 12:07:15,135 - DEBUG - Done with NW_024055760.1+ [line 1454471]
+2025-03-03 12:07:15,135 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,135 - DEBUG - Seen 23463 genes until now
+2025-03-03 12:07:15,135 - DEBUG - Parsing Chromosome NW_024055761.1 strand - [line 1454472]
+2025-03-03 12:07:15,135 - DEBUG - Done with NW_024055761.1- [line 1454479]
+2025-03-03 12:07:15,135 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,135 - DEBUG - Seen 23464 genes until now
+2025-03-03 12:07:15,135 - DEBUG - Parsing Chromosome NW_024055761.1 strand + [line 1454480]
+2025-03-03 12:07:15,136 - DEBUG - Done with NW_024055761.1+ [line 1454489]
+2025-03-03 12:07:15,136 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,136 - DEBUG - Seen 23465 genes until now
+2025-03-03 12:07:15,136 - DEBUG - Parsing Chromosome NW_024055764.1 strand - [line 1454490]
+2025-03-03 12:07:15,136 - DEBUG - Done with NW_024055764.1- [line 1454495]
+2025-03-03 12:07:15,136 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,136 - DEBUG - Seen 23466 genes until now
+2025-03-03 12:07:15,136 - DEBUG - Parsing Chromosome NW_024055765.1 strand - [line 1454496]
+2025-03-03 12:07:15,136 - DEBUG - Done with NW_024055765.1- [line 1454506]
+2025-03-03 12:07:15,136 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,136 - DEBUG - Seen 23467 genes until now
+2025-03-03 12:07:15,136 - DEBUG - Parsing Chromosome NW_024055766.1 strand - [line 1454507]
+2025-03-03 12:07:15,136 - DEBUG - Done with NW_024055766.1- [line 1454555]
+2025-03-03 12:07:15,136 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,137 - DEBUG - Seen 23468 genes until now
+2025-03-03 12:07:15,137 - DEBUG - Parsing Chromosome NW_024055767.1 strand + [line 1454556]
+2025-03-03 12:07:15,137 - DEBUG - Done with NW_024055767.1+ [line 1454562]
+2025-03-03 12:07:15,137 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,137 - DEBUG - Seen 23469 genes until now
+2025-03-03 12:07:15,137 - DEBUG - Parsing Chromosome NW_024055768.1 strand + [line 1454563]
+2025-03-03 12:07:15,137 - DEBUG - Done with NW_024055768.1+ [line 1454567]
+2025-03-03 12:07:15,137 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,137 - DEBUG - Seen 23470 genes until now
+2025-03-03 12:07:15,137 - DEBUG - Parsing Chromosome NW_024055772.1 strand + [line 1454568]
+2025-03-03 12:07:15,137 - DEBUG - Done with NW_024055772.1+ [line 1454579]
+2025-03-03 12:07:15,137 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,137 - DEBUG - Seen 23471 genes until now
+2025-03-03 12:07:15,137 - DEBUG - Parsing Chromosome NW_024055777.1 strand - [line 1454580]
+2025-03-03 12:07:15,137 - DEBUG - Done with NW_024055777.1- [line 1454589]
+2025-03-03 12:07:15,137 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,137 - DEBUG - Seen 23472 genes until now
+2025-03-03 12:07:15,137 - DEBUG - Parsing Chromosome NW_024055777.1 strand + [line 1454590]
+2025-03-03 12:07:15,137 - DEBUG - Done with NW_024055777.1+ [line 1454594]
+2025-03-03 12:07:15,137 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,137 - DEBUG - Seen 23473 genes until now
+2025-03-03 12:07:15,138 - DEBUG - Parsing Chromosome NW_024055784.1 strand - [line 1454595]
+2025-03-03 12:07:15,138 - DEBUG - Done with NW_024055784.1- [line 1454606]
+2025-03-03 12:07:15,138 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,138 - DEBUG - Seen 23475 genes until now
+2025-03-03 12:07:15,138 - DEBUG - Parsing Chromosome NW_024055784.1 strand + [line 1454607]
+2025-03-03 12:07:15,138 - DEBUG - Done with NW_024055784.1+ [line 1454618]
+2025-03-03 12:07:15,138 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,138 - DEBUG - Seen 23477 genes until now
+2025-03-03 12:07:15,138 - DEBUG - Parsing Chromosome NW_024055785.1 strand - [line 1454619]
+2025-03-03 12:07:15,138 - DEBUG - Done with NW_024055785.1- [line 1454628]
+2025-03-03 12:07:15,138 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,138 - DEBUG - Seen 23478 genes until now
+2025-03-03 12:07:15,138 - DEBUG - Parsing Chromosome NW_024055785.1 strand + [line 1454629]
+2025-03-03 12:07:15,138 - DEBUG - Done with NW_024055785.1+ [line 1454635]
+2025-03-03 12:07:15,138 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,138 - DEBUG - Seen 23479 genes until now
+2025-03-03 12:07:15,138 - DEBUG - Parsing Chromosome NW_024055796.1 strand - [line 1454636]
+2025-03-03 12:07:15,138 - DEBUG - Done with NW_024055796.1- [line 1454644]
+2025-03-03 12:07:15,138 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,138 - DEBUG - Seen 23481 genes until now
+2025-03-03 12:07:15,139 - DEBUG - Parsing Chromosome NW_024055796.1 strand + [line 1454645]
+2025-03-03 12:07:15,139 - DEBUG - Done with NW_024055796.1+ [line 1454686]
+2025-03-03 12:07:15,139 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,139 - DEBUG - Seen 23487 genes until now
+2025-03-03 12:07:15,139 - DEBUG - Parsing Chromosome NW_024055806.1 strand - [line 1454687]
+2025-03-03 12:07:15,139 - DEBUG - Done with NW_024055806.1- [line 1454709]
+2025-03-03 12:07:15,139 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,139 - DEBUG - Seen 23489 genes until now
+2025-03-03 12:07:15,139 - DEBUG - Parsing Chromosome NW_024055810.1 strand + [line 1454710]
+2025-03-03 12:07:15,139 - DEBUG - Done with NW_024055810.1+ [line 1454713]
+2025-03-03 12:07:15,139 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,139 - DEBUG - Seen 23490 genes until now
+2025-03-03 12:07:15,139 - DEBUG - Parsing Chromosome NW_024055815.1 strand - [line 1454714]
+2025-03-03 12:07:15,139 - DEBUG - Done with NW_024055815.1- [line 1454730]
+2025-03-03 12:07:15,139 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,139 - DEBUG - Seen 23492 genes until now
+2025-03-03 12:07:15,140 - DEBUG - Parsing Chromosome NW_024055815.1 strand + [line 1454731]
+2025-03-03 12:07:15,140 - DEBUG - Done with NW_024055815.1+ [line 1454734]
+2025-03-03 12:07:15,140 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,140 - DEBUG - Seen 23493 genes until now
+2025-03-03 12:07:15,140 - DEBUG - Parsing Chromosome NW_024055818.1 strand + [line 1454735]
+2025-03-03 12:07:15,140 - DEBUG - Done with NW_024055818.1+ [line 1454746]
+2025-03-03 12:07:15,140 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,140 - DEBUG - Seen 23494 genes until now
+2025-03-03 12:07:15,140 - DEBUG - Parsing Chromosome NW_024055820.1 strand - [line 1454747]
+2025-03-03 12:07:15,140 - DEBUG - Done with NW_024055820.1- [line 1454889]
+2025-03-03 12:07:15,141 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,141 - DEBUG - Seen 23507 genes until now
+2025-03-03 12:07:15,141 - DEBUG - Parsing Chromosome NW_024055820.1 strand + [line 1454890]
+2025-03-03 12:07:15,142 - DEBUG - Done with NW_024055820.1+ [line 1455118]
+2025-03-03 12:07:15,142 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,142 - DEBUG - Seen 23520 genes until now
+2025-03-03 12:07:15,142 - DEBUG - Parsing Chromosome NW_024055829.1 strand - [line 1455119]
+2025-03-03 12:07:15,142 - DEBUG - Done with NW_024055829.1- [line 1455134]
+2025-03-03 12:07:15,142 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,142 - DEBUG - Seen 23523 genes until now
+2025-03-03 12:07:15,142 - DEBUG - Parsing Chromosome NW_024055831.1 strand - [line 1455135]
+2025-03-03 12:07:15,142 - DEBUG - Done with NW_024055831.1- [line 1455168]
+2025-03-03 12:07:15,142 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,142 - DEBUG - Seen 23524 genes until now
+2025-03-03 12:07:15,142 - DEBUG - Parsing Chromosome NW_024055835.1 strand - [line 1455169]
+2025-03-03 12:07:15,142 - DEBUG - Done with NW_024055835.1- [line 1455188]
+2025-03-03 12:07:15,142 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,142 - DEBUG - Seen 23525 genes until now
+2025-03-03 12:07:15,143 - DEBUG - Parsing Chromosome NW_024055835.1 strand + [line 1455189]
+2025-03-03 12:07:15,143 - DEBUG - Done with NW_024055835.1+ [line 1455242]
+2025-03-03 12:07:15,143 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,143 - DEBUG - Seen 23527 genes until now
+2025-03-03 12:07:15,143 - DEBUG - Parsing Chromosome NW_024055836.1 strand - [line 1455243]
+2025-03-03 12:07:15,143 - DEBUG - Done with NW_024055836.1- [line 1455261]
+2025-03-03 12:07:15,143 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,143 - DEBUG - Seen 23528 genes until now
+2025-03-03 12:07:15,143 - DEBUG - Parsing Chromosome NW_024055838.1 strand + [line 1455262]
+2025-03-03 12:07:15,143 - DEBUG - Done with NW_024055838.1+ [line 1455277]
+2025-03-03 12:07:15,143 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,143 - DEBUG - Seen 23529 genes until now
+2025-03-03 12:07:15,143 - DEBUG - Parsing Chromosome NW_024055839.1 strand + [line 1455278]
+2025-03-03 12:07:15,143 - DEBUG - Done with NW_024055839.1+ [line 1455285]
+2025-03-03 12:07:15,143 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,144 - DEBUG - Seen 23530 genes until now
+2025-03-03 12:07:15,144 - DEBUG - Parsing Chromosome NW_024055840.1 strand - [line 1455286]
+2025-03-03 12:07:15,144 - DEBUG - Done with NW_024055840.1- [line 1455294]
+2025-03-03 12:07:15,144 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,144 - DEBUG - Seen 23531 genes until now
+2025-03-03 12:07:15,144 - DEBUG - Parsing Chromosome NW_024055842.1 strand + [line 1455295]
+2025-03-03 12:07:15,144 - DEBUG - Done with NW_024055842.1+ [line 1455305]
+2025-03-03 12:07:15,144 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,144 - DEBUG - Seen 23532 genes until now
+2025-03-03 12:07:15,144 - DEBUG - Parsing Chromosome NW_024055843.1 strand - [line 1455306]
+2025-03-03 12:07:15,144 - DEBUG - Done with NW_024055843.1- [line 1455341]
+2025-03-03 12:07:15,144 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,144 - DEBUG - Seen 23539 genes until now
+2025-03-03 12:07:15,144 - DEBUG - Parsing Chromosome NW_024055843.1 strand + [line 1455342]
+2025-03-03 12:07:15,145 - DEBUG - Done with NW_024055843.1+ [line 1455439]
+2025-03-03 12:07:15,145 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,145 - DEBUG - Seen 23548 genes until now
+2025-03-03 12:07:15,145 - DEBUG - Parsing Chromosome NW_024055849.1 strand - [line 1455440]
+2025-03-03 12:07:15,145 - DEBUG - Done with NW_024055849.1- [line 1455444]
+2025-03-03 12:07:15,145 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,145 - DEBUG - Seen 23549 genes until now
+2025-03-03 12:07:15,145 - DEBUG - Parsing Chromosome NW_024055851.1 strand + [line 1455445]
+2025-03-03 12:07:15,145 - DEBUG - Done with NW_024055851.1+ [line 1455458]
+2025-03-03 12:07:15,145 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,145 - DEBUG - Seen 23550 genes until now
+2025-03-03 12:07:15,145 - DEBUG - Parsing Chromosome NW_024055852.1 strand - [line 1455459]
+2025-03-03 12:07:15,146 - DEBUG - Done with NW_024055852.1- [line 1455544]
+2025-03-03 12:07:15,146 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,146 - DEBUG - Seen 23555 genes until now
+2025-03-03 12:07:15,146 - DEBUG - Parsing Chromosome NW_024055852.1 strand + [line 1455545]
+2025-03-03 12:07:15,146 - DEBUG - Done with NW_024055852.1+ [line 1455602]
+2025-03-03 12:07:15,146 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,146 - DEBUG - Seen 23562 genes until now
+2025-03-03 12:07:15,146 - DEBUG - Parsing Chromosome NW_024055867.1 strand + [line 1455603]
+2025-03-03 12:07:15,146 - DEBUG - Done with NW_024055867.1+ [line 1455611]
+2025-03-03 12:07:15,146 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,146 - DEBUG - Seen 23563 genes until now
+2025-03-03 12:07:15,146 - DEBUG - Parsing Chromosome NW_024055870.1 strand - [line 1455612]
+2025-03-03 12:07:15,147 - DEBUG - Done with NW_024055870.1- [line 1455711]
+2025-03-03 12:07:15,147 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,147 - DEBUG - Seen 23566 genes until now
+2025-03-03 12:07:15,147 - DEBUG - Parsing Chromosome NW_024055870.1 strand + [line 1455712]
+2025-03-03 12:07:15,147 - DEBUG - Done with NW_024055870.1+ [line 1455721]
+2025-03-03 12:07:15,147 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,147 - DEBUG - Seen 23568 genes until now
+2025-03-03 12:07:15,147 - DEBUG - Parsing Chromosome NW_024055871.1 strand + [line 1455722]
+2025-03-03 12:07:15,147 - DEBUG - Done with NW_024055871.1+ [line 1455732]
+2025-03-03 12:07:15,147 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,147 - DEBUG - Seen 23569 genes until now
+2025-03-03 12:07:15,147 - DEBUG - Parsing Chromosome NW_024055874.1 strand + [line 1455733]
+2025-03-03 12:07:15,147 - DEBUG - Done with NW_024055874.1+ [line 1455738]
+2025-03-03 12:07:15,147 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,148 - DEBUG - Seen 23570 genes until now
+2025-03-03 12:07:15,148 - DEBUG - Parsing Chromosome NW_024055876.1 strand - [line 1455739]
+2025-03-03 12:07:15,148 - DEBUG - Done with NW_024055876.1- [line 1455746]
+2025-03-03 12:07:15,148 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,148 - DEBUG - Seen 23571 genes until now
+2025-03-03 12:07:15,148 - DEBUG - Parsing Chromosome NW_024055877.1 strand - [line 1455747]
+2025-03-03 12:07:15,148 - DEBUG - Done with NW_024055877.1- [line 1455768]
+2025-03-03 12:07:15,148 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,148 - DEBUG - Seen 23572 genes until now
+2025-03-03 12:07:15,148 - DEBUG - Parsing Chromosome NW_024055881.1 strand - [line 1455769]
+2025-03-03 12:07:15,148 - DEBUG - Done with NW_024055881.1- [line 1455810]
+2025-03-03 12:07:15,148 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,148 - DEBUG - Seen 23577 genes until now
+2025-03-03 12:07:15,148 - DEBUG - Parsing Chromosome NW_024055881.1 strand + [line 1455811]
+2025-03-03 12:07:15,148 - DEBUG - Done with NW_024055881.1+ [line 1455820]
+2025-03-03 12:07:15,149 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,149 - DEBUG - Seen 23578 genes until now
+2025-03-03 12:07:15,149 - DEBUG - Parsing Chromosome NW_024055886.1 strand + [line 1455821]
+2025-03-03 12:07:15,149 - DEBUG - Done with NW_024055886.1+ [line 1455847]
+2025-03-03 12:07:15,149 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,149 - DEBUG - Seen 23579 genes until now
+2025-03-03 12:07:15,149 - DEBUG - Parsing Chromosome NW_024055889.1 strand + [line 1455848]
+2025-03-03 12:07:15,149 - DEBUG - Done with NW_024055889.1+ [line 1455869]
+2025-03-03 12:07:15,149 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,149 - DEBUG - Seen 23580 genes until now
+2025-03-03 12:07:15,149 - DEBUG - Parsing Chromosome NW_024055891.1 strand - [line 1455870]
+2025-03-03 12:07:15,149 - DEBUG - Done with NW_024055891.1- [line 1455911]
+2025-03-03 12:07:15,149 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,149 - DEBUG - Seen 23583 genes until now
+2025-03-03 12:07:15,149 - DEBUG - Parsing Chromosome NW_024055891.1 strand + [line 1455912]
+2025-03-03 12:07:15,150 - DEBUG - Done with NW_024055891.1+ [line 1455917]
+2025-03-03 12:07:15,150 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,150 - DEBUG - Seen 23584 genes until now
+2025-03-03 12:07:15,150 - DEBUG - Parsing Chromosome NW_024055900.1 strand + [line 1455918]
+2025-03-03 12:07:15,150 - DEBUG - Done with NW_024055900.1+ [line 1455921]
+2025-03-03 12:07:15,150 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,150 - DEBUG - Seen 23585 genes until now
+2025-03-03 12:07:15,150 - DEBUG - Parsing Chromosome NW_024055902.1 strand + [line 1455922]
+2025-03-03 12:07:15,150 - DEBUG - Done with NW_024055902.1+ [line 1455934]
+2025-03-03 12:07:15,150 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,150 - DEBUG - Seen 23586 genes until now
+2025-03-03 12:07:15,150 - DEBUG - Parsing Chromosome NW_024055903.1 strand + [line 1455935]
+2025-03-03 12:07:15,150 - DEBUG - Done with NW_024055903.1+ [line 1455942]
+2025-03-03 12:07:15,150 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,150 - DEBUG - Seen 23587 genes until now
+2025-03-03 12:07:15,150 - DEBUG - Parsing Chromosome NW_024055906.1 strand - [line 1455943]
+2025-03-03 12:07:15,150 - DEBUG - Done with NW_024055906.1- [line 1455957]
+2025-03-03 12:07:15,150 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,150 - DEBUG - Seen 23588 genes until now
+2025-03-03 12:07:15,150 - DEBUG - Parsing Chromosome NW_024055909.1 strand - [line 1455958]
+2025-03-03 12:07:15,151 - DEBUG - Done with NW_024055909.1- [line 1455991]
+2025-03-03 12:07:15,151 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,151 - DEBUG - Seen 23592 genes until now
+2025-03-03 12:07:15,151 - DEBUG - Parsing Chromosome NW_024055909.1 strand + [line 1455992]
+2025-03-03 12:07:15,151 - DEBUG - Done with NW_024055909.1+ [line 1456012]
+2025-03-03 12:07:15,151 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,151 - DEBUG - Seen 23595 genes until now
+2025-03-03 12:07:15,151 - DEBUG - Parsing Chromosome NW_024055910.1 strand - [line 1456013]
+2025-03-03 12:07:15,151 - DEBUG - Done with NW_024055910.1- [line 1456050]
+2025-03-03 12:07:15,151 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,151 - DEBUG - Seen 23596 genes until now
+2025-03-03 12:07:15,151 - DEBUG - Parsing Chromosome NW_024055910.1 strand + [line 1456051]
+2025-03-03 12:07:15,151 - DEBUG - Done with NW_024055910.1+ [line 1456069]
+2025-03-03 12:07:15,151 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,151 - DEBUG - Seen 23597 genes until now
+2025-03-03 12:07:15,152 - DEBUG - Parsing Chromosome NW_024055914.1 strand - [line 1456070]
+2025-03-03 12:07:15,152 - DEBUG - Done with NW_024055914.1- [line 1456083]
+2025-03-03 12:07:15,152 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,152 - DEBUG - Seen 23598 genes until now
+2025-03-03 12:07:15,152 - DEBUG - Parsing Chromosome NW_024055916.1 strand - [line 1456084]
+2025-03-03 12:07:15,152 - DEBUG - Done with NW_024055916.1- [line 1456095]
+2025-03-03 12:07:15,152 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,152 - DEBUG - Seen 23599 genes until now
+2025-03-03 12:07:15,152 - DEBUG - Parsing Chromosome NW_024055919.1 strand - [line 1456096]
+2025-03-03 12:07:15,152 - DEBUG - Done with NW_024055919.1- [line 1456101]
+2025-03-03 12:07:15,152 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,152 - DEBUG - Seen 23600 genes until now
+2025-03-03 12:07:15,152 - DEBUG - Parsing Chromosome NW_024055919.1 strand + [line 1456102]
+2025-03-03 12:07:15,152 - DEBUG - Done with NW_024055919.1+ [line 1456105]
+2025-03-03 12:07:15,152 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,152 - DEBUG - Seen 23601 genes until now
+2025-03-03 12:07:15,152 - DEBUG - Parsing Chromosome NW_024055923.1 strand - [line 1456106]
+2025-03-03 12:07:15,152 - DEBUG - Done with NW_024055923.1- [line 1456122]
+2025-03-03 12:07:15,152 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,153 - DEBUG - Seen 23602 genes until now
+2025-03-03 12:07:15,153 - DEBUG - Parsing Chromosome NW_024055927.1 strand - [line 1456123]
+2025-03-03 12:07:15,153 - DEBUG - Done with NW_024055927.1- [line 1456129]
+2025-03-03 12:07:15,153 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,153 - DEBUG - Seen 23603 genes until now
+2025-03-03 12:07:15,153 - DEBUG - Parsing Chromosome NW_024055928.1 strand - [line 1456130]
+2025-03-03 12:07:15,153 - DEBUG - Done with NW_024055928.1- [line 1456147]
+2025-03-03 12:07:15,153 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,153 - DEBUG - Seen 23606 genes until now
+2025-03-03 12:07:15,153 - DEBUG - Parsing Chromosome NW_024055928.1 strand + [line 1456148]
+2025-03-03 12:07:15,153 - DEBUG - Done with NW_024055928.1+ [line 1456176]
+2025-03-03 12:07:15,153 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,153 - DEBUG - Seen 23610 genes until now
+2025-03-03 12:07:15,153 - DEBUG - Parsing Chromosome NW_024055929.1 strand + [line 1456177]
+2025-03-03 12:07:15,153 - DEBUG - Done with NW_024055929.1+ [line 1456183]
+2025-03-03 12:07:15,153 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,153 - DEBUG - Seen 23611 genes until now
+2025-03-03 12:07:15,153 - DEBUG - Parsing Chromosome NW_024055930.1 strand + [line 1456184]
+2025-03-03 12:07:15,153 - DEBUG - Done with NW_024055930.1+ [line 1456187]
+2025-03-03 12:07:15,154 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,154 - DEBUG - Seen 23612 genes until now
+2025-03-03 12:07:15,154 - DEBUG - Parsing Chromosome NW_024055931.1 strand - [line 1456188]
+2025-03-03 12:07:15,154 - DEBUG - Done with NW_024055931.1- [line 1456203]
+2025-03-03 12:07:15,154 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,154 - DEBUG - Seen 23614 genes until now
+2025-03-03 12:07:15,154 - DEBUG - Parsing Chromosome NW_024055931.1 strand + [line 1456204]
+2025-03-03 12:07:15,154 - DEBUG - Done with NW_024055931.1+ [line 1456209]
+2025-03-03 12:07:15,154 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,154 - DEBUG - Seen 23615 genes until now
+2025-03-03 12:07:15,154 - DEBUG - Parsing Chromosome NW_024055937.1 strand + [line 1456210]
+2025-03-03 12:07:15,154 - DEBUG - Done with NW_024055937.1+ [line 1456238]
+2025-03-03 12:07:15,154 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,154 - DEBUG - Seen 23617 genes until now
+2025-03-03 12:07:15,154 - DEBUG - Parsing Chromosome NW_024055939.1 strand + [line 1456239]
+2025-03-03 12:07:15,155 - DEBUG - Done with NW_024055939.1+ [line 1456303]
+2025-03-03 12:07:15,155 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,155 - DEBUG - Seen 23618 genes until now
+2025-03-03 12:07:15,155 - DEBUG - Parsing Chromosome NW_024055940.1 strand + [line 1456304]
+2025-03-03 12:07:15,155 - DEBUG - Done with NW_024055940.1+ [line 1456319]
+2025-03-03 12:07:15,155 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,155 - DEBUG - Seen 23619 genes until now
+2025-03-03 12:07:15,155 - DEBUG - Parsing Chromosome NW_024055944.1 strand + [line 1456320]
+2025-03-03 12:07:15,155 - DEBUG - Done with NW_024055944.1+ [line 1456328]
+2025-03-03 12:07:15,155 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,155 - DEBUG - Seen 23620 genes until now
+2025-03-03 12:07:15,155 - DEBUG - Parsing Chromosome NW_024055946.1 strand - [line 1456329]
+2025-03-03 12:07:15,155 - DEBUG - Done with NW_024055946.1- [line 1456335]
+2025-03-03 12:07:15,155 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,155 - DEBUG - Seen 23621 genes until now
+2025-03-03 12:07:15,155 - DEBUG - Parsing Chromosome NW_024055947.1 strand - [line 1456336]
+2025-03-03 12:07:15,155 - DEBUG - Done with NW_024055947.1- [line 1456341]
+2025-03-03 12:07:15,155 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,155 - DEBUG - Seen 23622 genes until now
+2025-03-03 12:07:15,155 - DEBUG - Parsing Chromosome NW_024055947.1 strand + [line 1456342]
+2025-03-03 12:07:15,156 - DEBUG - Done with NW_024055947.1+ [line 1456372]
+2025-03-03 12:07:15,156 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,156 - DEBUG - Seen 23624 genes until now
+2025-03-03 12:07:15,156 - DEBUG - Parsing Chromosome NW_024055955.1 strand - [line 1456373]
+2025-03-03 12:07:15,156 - DEBUG - Done with NW_024055955.1- [line 1456404]
+2025-03-03 12:07:15,156 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,156 - DEBUG - Seen 23629 genes until now
+2025-03-03 12:07:15,156 - DEBUG - Parsing Chromosome NW_024055955.1 strand + [line 1456405]
+2025-03-03 12:07:15,156 - DEBUG - Done with NW_024055955.1+ [line 1456416]
+2025-03-03 12:07:15,156 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,156 - DEBUG - Seen 23631 genes until now
+2025-03-03 12:07:15,156 - DEBUG - Parsing Chromosome NW_024055956.1 strand + [line 1456417]
+2025-03-03 12:07:15,156 - DEBUG - Done with NW_024055956.1+ [line 1456423]
+2025-03-03 12:07:15,156 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,156 - DEBUG - Seen 23632 genes until now
+2025-03-03 12:07:15,156 - DEBUG - Parsing Chromosome NW_024055957.1 strand - [line 1456424]
+2025-03-03 12:07:15,157 - DEBUG - Done with NW_024055957.1- [line 1456441]
+2025-03-03 12:07:15,157 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,157 - DEBUG - Seen 23635 genes until now
+2025-03-03 12:07:15,157 - DEBUG - Parsing Chromosome NW_024055957.1 strand + [line 1456442]
+2025-03-03 12:07:15,157 - DEBUG - Done with NW_024055957.1+ [line 1456453]
+2025-03-03 12:07:15,157 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,157 - DEBUG - Seen 23637 genes until now
+2025-03-03 12:07:15,157 - DEBUG - Parsing Chromosome NW_024055960.1 strand - [line 1456454]
+2025-03-03 12:07:15,157 - DEBUG - Done with NW_024055960.1- [line 1456572]
+2025-03-03 12:07:15,157 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,158 - DEBUG - Seen 23641 genes until now
+2025-03-03 12:07:15,158 - DEBUG - Parsing Chromosome NW_024055960.1 strand + [line 1456573]
+2025-03-03 12:07:15,158 - DEBUG - Done with NW_024055960.1+ [line 1456616]
+2025-03-03 12:07:15,158 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,158 - DEBUG - Seen 23644 genes until now
+2025-03-03 12:07:15,158 - DEBUG - Parsing Chromosome NW_024055963.1 strand + [line 1456617]
+2025-03-03 12:07:15,158 - DEBUG - Done with NW_024055963.1+ [line 1456621]
+2025-03-03 12:07:15,158 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,158 - DEBUG - Seen 23645 genes until now
+2025-03-03 12:07:15,158 - DEBUG - Parsing Chromosome NW_024055964.1 strand - [line 1456622]
+2025-03-03 12:07:15,158 - DEBUG - Done with NW_024055964.1- [line 1456628]
+2025-03-03 12:07:15,158 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,158 - DEBUG - Seen 23646 genes until now
+2025-03-03 12:07:15,158 - DEBUG - Parsing Chromosome NW_024055966.1 strand - [line 1456629]
+2025-03-03 12:07:15,158 - DEBUG - Done with NW_024055966.1- [line 1456650]
+2025-03-03 12:07:15,158 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,158 - DEBUG - Seen 23647 genes until now
+2025-03-03 12:07:15,158 - DEBUG - Parsing Chromosome NW_024055967.1 strand + [line 1456651]
+2025-03-03 12:07:15,159 - DEBUG - Done with NW_024055967.1+ [line 1456661]
+2025-03-03 12:07:15,159 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,159 - DEBUG - Seen 23648 genes until now
+2025-03-03 12:07:15,159 - DEBUG - Parsing Chromosome NW_024055972.1 strand - [line 1456662]
+2025-03-03 12:07:15,159 - DEBUG - Done with NW_024055972.1- [line 1456673]
+2025-03-03 12:07:15,159 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,159 - DEBUG - Seen 23649 genes until now
+2025-03-03 12:07:15,159 - DEBUG - Parsing Chromosome NW_024055973.1 strand + [line 1456674]
+2025-03-03 12:07:15,159 - DEBUG - Done with NW_024055973.1+ [line 1456688]
+2025-03-03 12:07:15,159 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,159 - DEBUG - Seen 23650 genes until now
+2025-03-03 12:07:15,159 - DEBUG - Parsing Chromosome NW_024055974.1 strand - [line 1456689]
+2025-03-03 12:07:15,159 - DEBUG - Done with NW_024055974.1- [line 1456746]
+2025-03-03 12:07:15,159 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,159 - DEBUG - Seen 23655 genes until now
+2025-03-03 12:07:15,159 - DEBUG - Parsing Chromosome NW_024055974.1 strand + [line 1456747]
+2025-03-03 12:07:15,160 - DEBUG - Done with NW_024055974.1+ [line 1456755]
+2025-03-03 12:07:15,160 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,160 - DEBUG - Seen 23656 genes until now
+2025-03-03 12:07:15,160 - DEBUG - Parsing Chromosome NW_024055978.1 strand + [line 1456756]
+2025-03-03 12:07:15,160 - DEBUG - Done with NW_024055978.1+ [line 1456765]
+2025-03-03 12:07:15,160 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,160 - DEBUG - Seen 23657 genes until now
+2025-03-03 12:07:15,160 - DEBUG - Parsing Chromosome NW_024055983.1 strand + [line 1456766]
+2025-03-03 12:07:15,160 - DEBUG - Done with NW_024055983.1+ [line 1456771]
+2025-03-03 12:07:15,160 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,160 - DEBUG - Seen 23658 genes until now
+2025-03-03 12:07:15,160 - DEBUG - Parsing Chromosome NW_024055985.1 strand - [line 1456772]
+2025-03-03 12:07:15,160 - DEBUG - Done with NW_024055985.1- [line 1456777]
+2025-03-03 12:07:15,160 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,160 - DEBUG - Seen 23659 genes until now
+2025-03-03 12:07:15,160 - DEBUG - Parsing Chromosome NW_024055985.1 strand + [line 1456778]
+2025-03-03 12:07:15,160 - DEBUG - Done with NW_024055985.1+ [line 1456790]
+2025-03-03 12:07:15,160 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,160 - DEBUG - Seen 23660 genes until now
+2025-03-03 12:07:15,160 - DEBUG - Parsing Chromosome NW_024055986.1 strand + [line 1456791]
+2025-03-03 12:07:15,160 - DEBUG - Done with NW_024055986.1+ [line 1456794]
+2025-03-03 12:07:15,161 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,161 - DEBUG - Seen 23661 genes until now
+2025-03-03 12:07:15,161 - DEBUG - Parsing Chromosome NW_024055987.1 strand + [line 1456795]
+2025-03-03 12:07:15,161 - DEBUG - Done with NW_024055987.1+ [line 1456813]
+2025-03-03 12:07:15,161 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,161 - DEBUG - Seen 23663 genes until now
+2025-03-03 12:07:15,161 - DEBUG - Parsing Chromosome NW_024055988.1 strand - [line 1456814]
+2025-03-03 12:07:15,161 - DEBUG - Done with NW_024055988.1- [line 1456814]
+2025-03-03 12:07:15,161 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,161 - DEBUG - Seen 23663 genes until now
+2025-03-03 12:07:15,161 - DEBUG - Parsing Chromosome NW_024055988.1 strand + [line 1456815]
+2025-03-03 12:07:15,161 - DEBUG - Done with NW_024055988.1+ [line 1456820]
+2025-03-03 12:07:15,161 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,161 - DEBUG - Seen 23664 genes until now
+2025-03-03 12:07:15,161 - DEBUG - Parsing Chromosome NW_024055992.1 strand - [line 1456821]
+2025-03-03 12:07:15,161 - DEBUG - Done with NW_024055992.1- [line 1456827]
+2025-03-03 12:07:15,161 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,161 - DEBUG - Seen 23665 genes until now
+2025-03-03 12:07:15,161 - DEBUG - Parsing Chromosome NW_024055993.1 strand + [line 1456828]
+2025-03-03 12:07:15,161 - DEBUG - Done with NW_024055993.1+ [line 1456852]
+2025-03-03 12:07:15,162 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,162 - DEBUG - Seen 23666 genes until now
+2025-03-03 12:07:15,162 - DEBUG - Parsing Chromosome NW_024055997.1 strand - [line 1456853]
+2025-03-03 12:07:15,162 - DEBUG - Done with NW_024055997.1- [line 1456871]
+2025-03-03 12:07:15,162 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,162 - DEBUG - Seen 23667 genes until now
+2025-03-03 12:07:15,162 - DEBUG - Parsing Chromosome NW_024055998.1 strand + [line 1456872]
+2025-03-03 12:07:15,162 - DEBUG - Done with NW_024055998.1+ [line 1456883]
+2025-03-03 12:07:15,162 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,162 - DEBUG - Seen 23668 genes until now
+2025-03-03 12:07:15,162 - DEBUG - Parsing Chromosome NW_024056000.1 strand - [line 1456884]
+2025-03-03 12:07:15,162 - DEBUG - Done with NW_024056000.1- [line 1456889]
+2025-03-03 12:07:15,162 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,162 - DEBUG - Seen 23669 genes until now
+2025-03-03 12:07:15,162 - DEBUG - Parsing Chromosome NW_024056001.1 strand + [line 1456890]
+2025-03-03 12:07:15,162 - DEBUG - Done with NW_024056001.1+ [line 1456915]
+2025-03-03 12:07:15,162 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,162 - DEBUG - Seen 23671 genes until now
+2025-03-03 12:07:15,162 - DEBUG - Parsing Chromosome NW_024056002.1 strand - [line 1456916]
+2025-03-03 12:07:15,163 - DEBUG - Done with NW_024056002.1- [line 1456930]
+2025-03-03 12:07:15,163 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,163 - DEBUG - Seen 23672 genes until now
+2025-03-03 12:07:15,163 - DEBUG - Parsing Chromosome NW_024056002.1 strand + [line 1456931]
+2025-03-03 12:07:15,163 - DEBUG - Done with NW_024056002.1+ [line 1456954]
+2025-03-03 12:07:15,163 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,163 - DEBUG - Seen 23674 genes until now
+2025-03-03 12:07:15,163 - DEBUG - Parsing Chromosome NW_024056005.1 strand + [line 1456955]
+2025-03-03 12:07:15,163 - DEBUG - Done with NW_024056005.1+ [line 1456963]
+2025-03-03 12:07:15,163 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,163 - DEBUG - Seen 23675 genes until now
+2025-03-03 12:07:15,163 - DEBUG - Parsing Chromosome NW_024056006.1 strand + [line 1456964]
+2025-03-03 12:07:15,163 - DEBUG - Done with NW_024056006.1+ [line 1456968]
+2025-03-03 12:07:15,163 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,163 - DEBUG - Seen 23676 genes until now
+2025-03-03 12:07:15,163 - DEBUG - Parsing Chromosome NW_024056007.1 strand - [line 1456969]
+2025-03-03 12:07:15,163 - DEBUG - Done with NW_024056007.1- [line 1456969]
+2025-03-03 12:07:15,163 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,163 - DEBUG - Seen 23676 genes until now
+2025-03-03 12:07:15,163 - DEBUG - Parsing Chromosome NW_024056007.1 strand + [line 1456970]
+2025-03-03 12:07:15,164 - DEBUG - Done with NW_024056007.1+ [line 1456999]
+2025-03-03 12:07:15,164 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,164 - DEBUG - Seen 23679 genes until now
+2025-03-03 12:07:15,164 - DEBUG - Parsing Chromosome NW_024056009.1 strand - [line 1457000]
+2025-03-03 12:07:15,164 - DEBUG - Done with NW_024056009.1- [line 1457003]
+2025-03-03 12:07:15,164 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,164 - DEBUG - Seen 23680 genes until now
+2025-03-03 12:07:15,164 - DEBUG - Parsing Chromosome NW_024056010.1 strand - [line 1457004]
+2025-03-03 12:07:15,164 - DEBUG - Done with NW_024056010.1- [line 1457087]
+2025-03-03 12:07:15,164 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,164 - DEBUG - Seen 23686 genes until now
+2025-03-03 12:07:15,164 - DEBUG - Parsing Chromosome NW_024056010.1 strand + [line 1457088]
+2025-03-03 12:07:15,166 - DEBUG - Done with NW_024056010.1+ [line 1457183]
+2025-03-03 12:07:15,166 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,166 - DEBUG - Seen 23693 genes until now
+2025-03-03 12:07:15,166 - DEBUG - Parsing Chromosome NW_024056011.1 strand - [line 1457184]
+2025-03-03 12:07:15,166 - DEBUG - Done with NW_024056011.1- [line 1457205]
+2025-03-03 12:07:15,166 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,166 - DEBUG - Seen 23696 genes until now
+2025-03-03 12:07:15,166 - DEBUG - Parsing Chromosome NW_024056011.1 strand + [line 1457206]
+2025-03-03 12:07:15,166 - DEBUG - Done with NW_024056011.1+ [line 1457230]
+2025-03-03 12:07:15,166 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,166 - DEBUG - Seen 23701 genes until now
+2025-03-03 12:07:15,166 - DEBUG - Parsing Chromosome NW_024056013.1 strand - [line 1457231]
+2025-03-03 12:07:15,167 - DEBUG - Done with NW_024056013.1- [line 1457383]
+2025-03-03 12:07:15,167 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,167 - DEBUG - Seen 23717 genes until now
+2025-03-03 12:07:15,167 - DEBUG - Parsing Chromosome NW_024056013.1 strand + [line 1457384]
+2025-03-03 12:07:15,168 - DEBUG - Done with NW_024056013.1+ [line 1457602]
+2025-03-03 12:07:15,168 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,168 - DEBUG - Seen 23735 genes until now
+2025-03-03 12:07:15,168 - DEBUG - Parsing Chromosome NW_024056015.1 strand + [line 1457603]
+2025-03-03 12:07:15,168 - DEBUG - Done with NW_024056015.1+ [line 1457604]
+2025-03-03 12:07:15,168 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,168 - DEBUG - Seen 23735 genes until now
+2025-03-03 12:07:15,168 - DEBUG - Parsing Chromosome NW_024056016.1 strand - [line 1457605]
+2025-03-03 12:07:15,168 - DEBUG - Done with NW_024056016.1- [line 1457655]
+2025-03-03 12:07:15,168 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,168 - DEBUG - Seen 23739 genes until now
+2025-03-03 12:07:15,168 - DEBUG - Parsing Chromosome NW_024056016.1 strand + [line 1457656]
+2025-03-03 12:07:15,169 - DEBUG - Done with NW_024056016.1+ [line 1457725]
+2025-03-03 12:07:15,169 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,169 - DEBUG - Seen 23746 genes until now
+2025-03-03 12:07:15,169 - DEBUG - Parsing Chromosome NW_024056017.1 strand - [line 1457726]
+2025-03-03 12:07:15,169 - DEBUG - Done with NW_024056017.1- [line 1457736]
+2025-03-03 12:07:15,169 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,169 - DEBUG - Seen 23748 genes until now
+2025-03-03 12:07:15,169 - DEBUG - Parsing Chromosome NW_024056017.1 strand + [line 1457737]
+2025-03-03 12:07:15,169 - DEBUG - Done with NW_024056017.1+ [line 1457741]
+2025-03-03 12:07:15,169 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,169 - DEBUG - Seen 23749 genes until now
+2025-03-03 12:07:15,169 - DEBUG - Parsing Chromosome NW_024056019.1 strand - [line 1457742]
+2025-03-03 12:07:15,169 - DEBUG - Done with NW_024056019.1- [line 1457758]
+2025-03-03 12:07:15,169 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,169 - DEBUG - Seen 23750 genes until now
+2025-03-03 12:07:15,170 - DEBUG - Parsing Chromosome NW_024056019.1 strand + [line 1457759]
+2025-03-03 12:07:15,170 - DEBUG - Done with NW_024056019.1+ [line 1457771]
+2025-03-03 12:07:15,170 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,170 - DEBUG - Seen 23751 genes until now
+2025-03-03 12:07:15,170 - DEBUG - Parsing Chromosome NW_024056020.1 strand - [line 1457772]
+2025-03-03 12:07:15,170 - DEBUG - Done with NW_024056020.1- [line 1457778]
+2025-03-03 12:07:15,170 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,170 - DEBUG - Seen 23752 genes until now
+2025-03-03 12:07:15,170 - DEBUG - Parsing Chromosome NW_024056020.1 strand + [line 1457779]
+2025-03-03 12:07:15,170 - DEBUG - Done with NW_024056020.1+ [line 1457795]
+2025-03-03 12:07:15,170 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,170 - DEBUG - Seen 23753 genes until now
+2025-03-03 12:07:15,170 - DEBUG - Parsing Chromosome NW_024056022.1 strand - [line 1457796]
+2025-03-03 12:07:15,170 - DEBUG - Done with NW_024056022.1- [line 1457808]
+2025-03-03 12:07:15,170 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,170 - DEBUG - Seen 23754 genes until now
+2025-03-03 12:07:15,171 - DEBUG - Parsing Chromosome NW_024056022.1 strand + [line 1457809]
+2025-03-03 12:07:15,171 - DEBUG - Done with NW_024056022.1+ [line 1457833]
+2025-03-03 12:07:15,171 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,171 - DEBUG - Seen 23755 genes until now
+2025-03-03 12:07:15,171 - DEBUG - Parsing Chromosome NW_024056023.1 strand - [line 1457834]
+2025-03-03 12:07:15,171 - DEBUG - Done with NW_024056023.1- [line 1457843]
+2025-03-03 12:07:15,171 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,171 - DEBUG - Seen 23757 genes until now
+2025-03-03 12:07:15,171 - DEBUG - Parsing Chromosome NW_024056023.1 strand + [line 1457844]
+2025-03-03 12:07:15,171 - DEBUG - Done with NW_024056023.1+ [line 1457849]
+2025-03-03 12:07:15,171 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,171 - DEBUG - Seen 23758 genes until now
+2025-03-03 12:07:15,171 - DEBUG - Parsing Chromosome NW_024056024.1 strand - [line 1457850]
+2025-03-03 12:07:15,171 - DEBUG - Done with NW_024056024.1- [line 1457856]
+2025-03-03 12:07:15,171 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,171 - DEBUG - Seen 23759 genes until now
+2025-03-03 12:07:15,171 - DEBUG - Parsing Chromosome NW_024056024.1 strand + [line 1457857]
+2025-03-03 12:07:15,171 - DEBUG - Done with NW_024056024.1+ [line 1457867]
+2025-03-03 12:07:15,171 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,172 - DEBUG - Seen 23760 genes until now
+2025-03-03 12:07:15,172 - DEBUG - Parsing Chromosome NW_024056025.1 strand - [line 1457868]
+2025-03-03 12:07:15,172 - DEBUG - Done with NW_024056025.1- [line 1458030]
+2025-03-03 12:07:15,172 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,172 - DEBUG - Seen 23770 genes until now
+2025-03-03 12:07:15,172 - DEBUG - Parsing Chromosome NW_024056025.1 strand + [line 1458031]
+2025-03-03 12:07:15,173 - DEBUG - Done with NW_024056025.1+ [line 1458089]
+2025-03-03 12:07:15,173 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,173 - DEBUG - Seen 23779 genes until now
+2025-03-03 12:07:15,173 - DEBUG - Parsing Chromosome NW_024056026.1 strand - [line 1458090]
+2025-03-03 12:07:15,173 - DEBUG - Done with NW_024056026.1- [line 1458094]
+2025-03-03 12:07:15,173 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,173 - DEBUG - Seen 23780 genes until now
+2025-03-03 12:07:15,173 - DEBUG - Parsing Chromosome NW_024056026.1 strand + [line 1458095]
+2025-03-03 12:07:15,173 - DEBUG - Done with NW_024056026.1+ [line 1458114]
+2025-03-03 12:07:15,173 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,173 - DEBUG - Seen 23782 genes until now
+2025-03-03 12:07:15,173 - DEBUG - Parsing Chromosome NW_024056027.1 strand - [line 1458115]
+2025-03-03 12:07:15,173 - DEBUG - Done with NW_024056027.1- [line 1458138]
+2025-03-03 12:07:15,173 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,173 - DEBUG - Seen 23785 genes until now
+2025-03-03 12:07:15,173 - DEBUG - Parsing Chromosome NW_024056027.1 strand + [line 1458139]
+2025-03-03 12:07:15,174 - DEBUG - Done with NW_024056027.1+ [line 1458170]
+2025-03-03 12:07:15,174 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,174 - DEBUG - Seen 23789 genes until now
+2025-03-03 12:07:15,174 - DEBUG - Parsing Chromosome NW_024056028.1 strand - [line 1458171]
+2025-03-03 12:07:15,174 - DEBUG - Done with NW_024056028.1- [line 1458182]
+2025-03-03 12:07:15,174 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,174 - DEBUG - Seen 23791 genes until now
+2025-03-03 12:07:15,174 - DEBUG - Parsing Chromosome NW_024056028.1 strand + [line 1458183]
+2025-03-03 12:07:15,174 - DEBUG - Done with NW_024056028.1+ [line 1458276]
+2025-03-03 12:07:15,174 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,174 - DEBUG - Seen 23797 genes until now
+2025-03-03 12:07:15,174 - DEBUG - Parsing Chromosome NW_024056029.1 strand - [line 1458277]
+2025-03-03 12:07:15,175 - DEBUG - Done with NW_024056029.1- [line 1458318]
+2025-03-03 12:07:15,175 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,175 - DEBUG - Seen 23802 genes until now
+2025-03-03 12:07:15,175 - DEBUG - Parsing Chromosome NW_024056029.1 strand + [line 1458319]
+2025-03-03 12:07:15,175 - DEBUG - Done with NW_024056029.1+ [line 1458326]
+2025-03-03 12:07:15,175 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,175 - DEBUG - Seen 23803 genes until now
+2025-03-03 12:07:15,175 - DEBUG - Parsing Chromosome NW_024056030.1 strand + [line 1458327]
+2025-03-03 12:07:15,175 - DEBUG - Done with NW_024056030.1+ [line 1458343]
+2025-03-03 12:07:15,175 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,175 - DEBUG - Seen 23805 genes until now
+2025-03-03 12:07:15,175 - DEBUG - Parsing Chromosome NW_024056031.1 strand - [line 1458344]
+2025-03-03 12:07:15,175 - DEBUG - Done with NW_024056031.1- [line 1458351]
+2025-03-03 12:07:15,175 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,175 - DEBUG - Seen 23807 genes until now
+2025-03-03 12:07:15,175 - DEBUG - Parsing Chromosome NW_024056033.1 strand - [line 1458352]
+2025-03-03 12:07:15,176 - DEBUG - Done with NW_024056033.1- [line 1458367]
+2025-03-03 12:07:15,176 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,176 - DEBUG - Seen 23809 genes until now
+2025-03-03 12:07:15,176 - DEBUG - Parsing Chromosome NW_024056033.1 strand + [line 1458368]
+2025-03-03 12:07:15,176 - DEBUG - Done with NW_024056033.1+ [line 1458380]
+2025-03-03 12:07:15,176 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,176 - DEBUG - Seen 23811 genes until now
+2025-03-03 12:07:15,176 - DEBUG - Parsing Chromosome NW_024056034.1 strand - [line 1458381]
+2025-03-03 12:07:15,176 - DEBUG - Done with NW_024056034.1- [line 1458384]
+2025-03-03 12:07:15,176 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,176 - DEBUG - Seen 23812 genes until now
+2025-03-03 12:07:15,176 - DEBUG - Parsing Chromosome NW_024056036.1 strand - [line 1458385]
+2025-03-03 12:07:15,176 - DEBUG - Done with NW_024056036.1- [line 1458399]
+2025-03-03 12:07:15,176 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,176 - DEBUG - Seen 23815 genes until now
+2025-03-03 12:07:15,176 - DEBUG - Parsing Chromosome NW_024056036.1 strand + [line 1458400]
+2025-03-03 12:07:15,176 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:15,177 - DEBUG - Done with NW_024056036.1+ [line 1458420]
+2025-03-03 12:07:15,177 - DEBUG - Fixing corner cases of transcript models containg intron longer than 1000Kbp
+2025-03-03 12:07:15,944 - DEBUG - Generated 1293530 features corresponding to 54918 transcript models from /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/reference_genomes/sScyCan1_1/genes/genes.gtf
+2025-03-03 12:07:15,958 - INFO - Scan /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE8_9/outs/possorted_genome_bam.bam to validate intron intervals
+2025-03-03 12:07:17,717 - DEBUG - Reading /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/catshark/sScyCan1.1/SE8_9/outs/possorted_genome_bam.bam
+2025-03-03 12:07:17,779 - DEBUG - Read first 0 million reads
+2025-03-03 12:07:17,779 - DEBUG - Marking up chromosome NC_052146.1
+2025-03-03 12:09:02,485 - DEBUG - Read first 10 million reads
+2025-03-03 12:10:30,010 - DEBUG - Read first 20 million reads
+2025-03-03 12:12:07,002 - DEBUG - Read first 30 million reads

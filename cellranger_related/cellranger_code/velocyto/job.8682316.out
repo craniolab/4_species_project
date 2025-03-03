@@ -1,0 +1,365 @@
+2025-03-03 12:07:13,068 - DEBUG - Using logic: Default
+2025-03-03 12:07:13,096 - INFO - Read 7609 cell barcodes from /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE8/outs/filtered_feature_bc_matrix/barcodes.tsv.gz
+2025-03-03 12:07:13,096 - DEBUG - Example of barcode: AAACCCAAGAGGCCAT and cell_id: RE8:AAACCCAAGAGGCCAT-1
+2025-03-03 12:07:13,119 - DEBUG - Peeking into /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE8/outs/possorted_genome_bam.bam
+2025-03-03 12:07:13,357 - WARNING - Not found cell and umi barcode in entry 81 of the bam file
+2025-03-03 12:07:13,358 - WARNING - Not found cell and umi barcode in entry 148 of the bam file
+2025-03-03 12:07:13,359 - WARNING - Not found cell and umi barcode in entry 223 of the bam file
+2025-03-03 12:07:13,360 - WARNING - Not found cell and umi barcode in entry 342 of the bam file
+2025-03-03 12:07:13,360 - WARNING - Not found cell and umi barcode in entry 343 of the bam file
+2025-03-03 12:07:13,360 - WARNING - Not found cell and umi barcode in entry 374 of the bam file
+2025-03-03 12:07:13,361 - WARNING - Not found cell and umi barcode in entry 414 of the bam file
+2025-03-03 12:07:13,361 - WARNING - Not found cell and umi barcode in entry 437 of the bam file
+2025-03-03 12:07:13,361 - WARNING - Not found cell and umi barcode in entry 446 of the bam file
+2025-03-03 12:07:13,361 - WARNING - Not found cell and umi barcode in entry 447 of the bam file
+2025-03-03 12:07:13,362 - WARNING - Not found cell and umi barcode in entry 508 of the bam file
+2025-03-03 12:07:13,362 - WARNING - Not found cell and umi barcode in entry 509 of the bam file
+2025-03-03 12:07:13,362 - WARNING - Not found cell and umi barcode in entry 510 of the bam file
+2025-03-03 12:07:13,362 - WARNING - Not found cell and umi barcode in entry 513 of the bam file
+2025-03-03 12:07:13,362 - WARNING - Not found cell and umi barcode in entry 522 of the bam file
+2025-03-03 12:07:13,362 - WARNING - Not found cell and umi barcode in entry 532 of the bam file
+2025-03-03 12:07:13,362 - WARNING - Not found cell and umi barcode in entry 542 of the bam file
+2025-03-03 12:07:13,363 - WARNING - Not found cell and umi barcode in entry 597 of the bam file
+2025-03-03 12:07:13,363 - WARNING - Not found cell and umi barcode in entry 640 of the bam file
+2025-03-03 12:07:13,364 - WARNING - Not found cell and umi barcode in entry 735 of the bam file
+2025-03-03 12:07:13,364 - WARNING - Not found cell and umi barcode in entry 780 of the bam file
+2025-03-03 12:07:13,365 - WARNING - Not found cell and umi barcode in entry 919 of the bam file
+2025-03-03 12:07:13,389 - INFO - Starting the sorting process of /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE8/outs/possorted_genome_bam.bam the output will be at: /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE8/outs/cellsorted_possorted_genome_bam.bam
+2025-03-03 12:07:13,390 - INFO - Command being run is: samtools sort -l 7 -m 5120M -t CB -O BAM -@ 16 -o /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE8/outs/cellsorted_possorted_genome_bam.bam /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE8/outs/possorted_genome_bam.bam
+2025-03-03 12:07:13,390 - INFO - While the bam sorting happens do other things...
+2025-03-03 12:07:13,390 - INFO - Load the annotation from /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/reference_genomes/mRatBN7_2/genes/genes.gtf
+2025-03-03 12:07:29,967 - DEBUG - Parsing Chromosome 1 strand - [line 0]
+2025-03-03 12:07:30,613 - DEBUG - Done with 1- [line 77545]
+2025-03-03 12:07:30,613 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:30,619 - DEBUG - Seen 1762 genes until now
+2025-03-03 12:07:30,620 - DEBUG - Parsing Chromosome 1 strand + [line 77546]
+2025-03-03 12:07:31,023 - DEBUG - Done with 1+ [line 155546]
+2025-03-03 12:07:31,023 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:31,029 - DEBUG - Seen 3547 genes until now
+2025-03-03 12:07:31,029 - DEBUG - Parsing Chromosome 10 strand - [line 155547]
+2025-03-03 12:07:31,206 - DEBUG - Done with 10- [line 204264]
+2025-03-03 12:07:31,206 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:31,210 - DEBUG - Seen 4560 genes until now
+2025-03-03 12:07:31,210 - DEBUG - Parsing Chromosome 10 strand + [line 204265]
+2025-03-03 12:07:31,526 - DEBUG - Done with 10+ [line 253137]
+2025-03-03 12:07:31,526 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:31,531 - DEBUG - Seen 5501 genes until now
+2025-03-03 12:07:31,531 - DEBUG - Parsing Chromosome 11 strand - [line 253138]
+2025-03-03 12:07:31,603 - DEBUG - Done with 11- [line 271884]
+2025-03-03 12:07:31,604 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:31,605 - DEBUG - Seen 5845 genes until now
+2025-03-03 12:07:31,605 - DEBUG - Parsing Chromosome 11 strand + [line 271885]
+2025-03-03 12:07:31,659 - DEBUG - Done with 11+ [line 287001]
+2025-03-03 12:07:31,660 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:31,661 - DEBUG - Seen 6209 genes until now
+2025-03-03 12:07:31,661 - DEBUG - Parsing Chromosome 12 strand - [line 287002]
+2025-03-03 12:07:31,740 - DEBUG - Done with 12- [line 307571]
+2025-03-03 12:07:31,740 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:31,741 - DEBUG - Seen 6598 genes until now
+2025-03-03 12:07:31,741 - DEBUG - Parsing Chromosome 12 strand + [line 307572]
+2025-03-03 12:07:31,817 - DEBUG - Done with 12+ [line 328103]
+2025-03-03 12:07:31,817 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:31,818 - DEBUG - Seen 6969 genes until now
+2025-03-03 12:07:31,818 - DEBUG - Parsing Chromosome 13 strand - [line 328104]
+2025-03-03 12:07:31,901 - DEBUG - Done with 13- [line 350082]
+2025-03-03 12:07:31,901 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:31,903 - DEBUG - Seen 7359 genes until now
+2025-03-03 12:07:31,903 - DEBUG - Parsing Chromosome 13 strand + [line 350083]
+2025-03-03 12:07:31,969 - DEBUG - Done with 13+ [line 368429]
+2025-03-03 12:07:31,969 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,174 - DEBUG - Seen 7750 genes until now
+2025-03-03 12:07:32,174 - DEBUG - Parsing Chromosome 14 strand - [line 368430]
+2025-03-03 12:07:32,262 - DEBUG - Done with 14- [line 392469]
+2025-03-03 12:07:32,262 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,264 - DEBUG - Seen 8203 genes until now
+2025-03-03 12:07:32,264 - DEBUG - Parsing Chromosome 14 strand + [line 392470]
+2025-03-03 12:07:32,341 - DEBUG - Done with 14+ [line 413460]
+2025-03-03 12:07:32,341 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,343 - DEBUG - Seen 8596 genes until now
+2025-03-03 12:07:32,343 - DEBUG - Parsing Chromosome 15 strand - [line 413461]
+2025-03-03 12:07:32,425 - DEBUG - Done with 15- [line 435200]
+2025-03-03 12:07:32,425 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,426 - DEBUG - Seen 9025 genes until now
+2025-03-03 12:07:32,426 - DEBUG - Parsing Chromosome 15 strand + [line 435201]
+2025-03-03 12:07:32,488 - DEBUG - Done with 15+ [line 452256]
+2025-03-03 12:07:32,488 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,489 - DEBUG - Seen 9461 genes until now
+2025-03-03 12:07:32,489 - DEBUG - Parsing Chromosome 16 strand - [line 452257]
+2025-03-03 12:07:32,566 - DEBUG - Done with 16- [line 472992]
+2025-03-03 12:07:32,566 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,568 - DEBUG - Seen 9848 genes until now
+2025-03-03 12:07:32,568 - DEBUG - Parsing Chromosome 16 strand + [line 472993]
+2025-03-03 12:07:32,628 - DEBUG - Done with 16+ [line 489949]
+2025-03-03 12:07:32,629 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,630 - DEBUG - Seen 10211 genes until now
+2025-03-03 12:07:32,630 - DEBUG - Parsing Chromosome 17 strand - [line 489950]
+2025-03-03 12:07:32,690 - DEBUG - Done with 17- [line 505785]
+2025-03-03 12:07:32,690 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,691 - DEBUG - Seen 10611 genes until now
+2025-03-03 12:07:32,691 - DEBUG - Parsing Chromosome 17 strand + [line 505786]
+2025-03-03 12:07:32,761 - DEBUG - Done with 17+ [line 525266]
+2025-03-03 12:07:32,761 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:32,763 - DEBUG - Seen 11037 genes until now
+2025-03-03 12:07:32,763 - DEBUG - Parsing Chromosome 18 strand - [line 525267]
+2025-03-03 12:07:33,002 - DEBUG - Done with 18- [line 538481]
+2025-03-03 12:07:33,002 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:33,003 - DEBUG - Seen 11322 genes until now
+2025-03-03 12:07:33,003 - DEBUG - Parsing Chromosome 18 strand + [line 538482]
+2025-03-03 12:07:33,064 - DEBUG - Done with 18+ [line 555319]
+2025-03-03 12:07:33,064 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:33,065 - DEBUG - Seen 11648 genes until now
+2025-03-03 12:07:33,065 - DEBUG - Parsing Chromosome 19 strand - [line 555320]
+2025-03-03 12:07:33,120 - DEBUG - Done with 19- [line 569945]
+2025-03-03 12:07:33,120 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:33,121 - DEBUG - Seen 11969 genes until now
+2025-03-03 12:07:33,121 - DEBUG - Parsing Chromosome 19 strand + [line 569946]
+2025-03-03 12:07:33,180 - DEBUG - Done with 19+ [line 586420]
+2025-03-03 12:07:33,180 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:33,181 - DEBUG - Seen 12298 genes until now
+2025-03-03 12:07:33,181 - DEBUG - Parsing Chromosome 2 strand - [line 586421]
+2025-03-03 12:07:33,332 - DEBUG - Done with 2- [line 626554]
+2025-03-03 12:07:33,332 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:33,335 - DEBUG - Seen 13126 genes until now
+2025-03-03 12:07:33,335 - DEBUG - Parsing Chromosome 2 strand + [line 626555]
+2025-03-03 12:07:33,481 - DEBUG - Done with 2+ [line 667306]
+2025-03-03 12:07:33,481 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:33,484 - DEBUG - Seen 13996 genes until now
+2025-03-03 12:07:33,484 - DEBUG - Parsing Chromosome 20 strand - [line 667307]
+2025-03-03 12:07:33,555 - DEBUG - Done with 20- [line 686397]
+2025-03-03 12:07:33,555 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:33,556 - DEBUG - Seen 14367 genes until now
+2025-03-03 12:07:33,556 - DEBUG - Parsing Chromosome 20 strand + [line 686398]
+2025-03-03 12:07:33,617 - DEBUG - Done with 20+ [line 703145]
+2025-03-03 12:07:33,617 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:33,618 - DEBUG - Seen 14742 genes until now
+2025-03-03 12:07:33,618 - DEBUG - Parsing Chromosome 3 strand - [line 703146]
+2025-03-03 12:07:34,088 - DEBUG - Done with 3- [line 755792]
+2025-03-03 12:07:34,088 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:34,091 - DEBUG - Seen 15803 genes until now
+2025-03-03 12:07:34,091 - DEBUG - Parsing Chromosome 3 strand + [line 755793]
+2025-03-03 12:07:34,265 - DEBUG - Done with 3+ [line 804594]
+2025-03-03 12:07:34,265 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:34,269 - DEBUG - Seen 16835 genes until now
+2025-03-03 12:07:34,269 - DEBUG - Parsing Chromosome 4 strand - [line 804595]
+2025-03-03 12:07:34,405 - DEBUG - Done with 4- [line 842723]
+2025-03-03 12:07:34,405 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:34,408 - DEBUG - Seen 17690 genes until now
+2025-03-03 12:07:34,408 - DEBUG - Parsing Chromosome 4 strand + [line 842724]
+2025-03-03 12:07:34,549 - DEBUG - Done with 4+ [line 882433]
+2025-03-03 12:07:34,549 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:34,552 - DEBUG - Seen 18543 genes until now
+2025-03-03 12:07:34,552 - DEBUG - Parsing Chromosome 5 strand - [line 882434]
+2025-03-03 12:07:34,705 - DEBUG - Done with 5- [line 923987]
+2025-03-03 12:07:34,705 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:34,708 - DEBUG - Seen 19353 genes until now
+2025-03-03 12:07:34,708 - DEBUG - Parsing Chromosome 5 strand + [line 923988]
+2025-03-03 12:07:34,848 - DEBUG - Done with 5+ [line 962902]
+2025-03-03 12:07:34,848 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:34,853 - DEBUG - Seen 20107 genes until now
+2025-03-03 12:07:34,854 - DEBUG - Parsing Chromosome 6 strand - [line 962903]
+2025-03-03 12:07:35,246 - DEBUG - Done with 6- [line 987886]
+2025-03-03 12:07:35,246 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:35,248 - DEBUG - Seen 20694 genes until now
+2025-03-03 12:07:35,248 - DEBUG - Parsing Chromosome 6 strand + [line 987887]
+2025-03-03 12:07:35,362 - DEBUG - Done with 6+ [line 1019743]
+2025-03-03 12:07:35,362 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:35,364 - DEBUG - Seen 21198 genes until now
+2025-03-03 12:07:35,364 - DEBUG - Parsing Chromosome 7 strand - [line 1019744]
+2025-03-03 12:07:35,520 - DEBUG - Done with 7- [line 1062656]
+2025-03-03 12:07:35,520 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:35,524 - DEBUG - Seen 22087 genes until now
+2025-03-03 12:07:35,524 - DEBUG - Parsing Chromosome 7 strand + [line 1062657]
+2025-03-03 12:07:35,647 - DEBUG - Done with 7+ [line 1097566]
+2025-03-03 12:07:35,647 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:35,649 - DEBUG - Seen 22809 genes until now
+2025-03-03 12:07:35,649 - DEBUG - Parsing Chromosome 8 strand - [line 1097567]
+2025-03-03 12:07:35,781 - DEBUG - Done with 8- [line 1134147]
+2025-03-03 12:07:35,781 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:35,783 - DEBUG - Seen 23496 genes until now
+2025-03-03 12:07:35,783 - DEBUG - Parsing Chromosome 8 strand + [line 1134148]
+2025-03-03 12:07:35,912 - DEBUG - Done with 8+ [line 1170639]
+2025-03-03 12:07:35,912 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:35,915 - DEBUG - Seen 24258 genes until now
+2025-03-03 12:07:35,915 - DEBUG - Parsing Chromosome 9 strand - [line 1170640]
+2025-03-03 12:07:36,004 - DEBUG - Done with 9- [line 1196274]
+2025-03-03 12:07:36,009 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,011 - DEBUG - Seen 24755 genes until now
+2025-03-03 12:07:36,011 - DEBUG - Parsing Chromosome 9 strand + [line 1196275]
+2025-03-03 12:07:36,119 - DEBUG - Done with 9+ [line 1226490]
+2025-03-03 12:07:36,119 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,121 - DEBUG - Seen 25270 genes until now
+2025-03-03 12:07:36,121 - DEBUG - Parsing Chromosome JACYVU010000238.1 strand - [line 1226491]
+2025-03-03 12:07:36,121 - DEBUG - Done with JACYVU010000238.1- [line 1226540]
+2025-03-03 12:07:36,121 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,121 - DEBUG - Seen 25273 genes until now
+2025-03-03 12:07:36,121 - DEBUG - Parsing Chromosome JACYVU010000315.1 strand - [line 1226541]
+2025-03-03 12:07:36,121 - DEBUG - Done with JACYVU010000315.1- [line 1226567]
+2025-03-03 12:07:36,121 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,122 - DEBUG - Seen 25274 genes until now
+2025-03-03 12:07:36,122 - DEBUG - Parsing Chromosome JACYVU010000315.1 strand + [line 1226568]
+2025-03-03 12:07:36,122 - DEBUG - Done with JACYVU010000315.1+ [line 1226572]
+2025-03-03 12:07:36,122 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,122 - DEBUG - Seen 25275 genes until now
+2025-03-03 12:07:36,122 - DEBUG - Parsing Chromosome JACYVU010000319.1 strand - [line 1226573]
+2025-03-03 12:07:36,122 - DEBUG - Done with JACYVU010000319.1- [line 1226637]
+2025-03-03 12:07:36,122 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,122 - DEBUG - Seen 25277 genes until now
+2025-03-03 12:07:36,122 - DEBUG - Parsing Chromosome JACYVU010000319.1 strand + [line 1226638]
+2025-03-03 12:07:36,122 - DEBUG - Done with JACYVU010000319.1+ [line 1226664]
+2025-03-03 12:07:36,122 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,122 - DEBUG - Seen 25279 genes until now
+2025-03-03 12:07:36,122 - DEBUG - Parsing Chromosome JACYVU010000493.1 strand - [line 1226665]
+2025-03-03 12:07:36,123 - DEBUG - Done with JACYVU010000493.1- [line 1226734]
+2025-03-03 12:07:36,123 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,123 - DEBUG - Seen 25282 genes until now
+2025-03-03 12:07:36,123 - DEBUG - Parsing Chromosome JACYVU010000493.1 strand + [line 1226735]
+2025-03-03 12:07:36,123 - DEBUG - Done with JACYVU010000493.1+ [line 1226845]
+2025-03-03 12:07:36,123 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,123 - DEBUG - Seen 25287 genes until now
+2025-03-03 12:07:36,123 - DEBUG - Parsing Chromosome JACYVU010000587.1 strand + [line 1226846]
+2025-03-03 12:07:36,123 - DEBUG - Done with JACYVU010000587.1+ [line 1226859]
+2025-03-03 12:07:36,124 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,124 - DEBUG - Seen 25288 genes until now
+2025-03-03 12:07:36,124 - DEBUG - Parsing Chromosome JACYVU010000589.1 strand - [line 1226860]
+2025-03-03 12:07:36,124 - DEBUG - Done with JACYVU010000589.1- [line 1226865]
+2025-03-03 12:07:36,124 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,124 - DEBUG - Seen 25289 genes until now
+2025-03-03 12:07:36,124 - DEBUG - Parsing Chromosome JACYVU010000619.1 strand + [line 1226866]
+2025-03-03 12:07:36,124 - DEBUG - Done with JACYVU010000619.1+ [line 1226886]
+2025-03-03 12:07:36,124 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,124 - DEBUG - Seen 25290 genes until now
+2025-03-03 12:07:36,124 - DEBUG - Parsing Chromosome JACYVU010000634.1 strand + [line 1226887]
+2025-03-03 12:07:36,124 - DEBUG - Done with JACYVU010000634.1+ [line 1226900]
+2025-03-03 12:07:36,124 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,124 - DEBUG - Seen 25291 genes until now
+2025-03-03 12:07:36,124 - DEBUG - Parsing Chromosome JACYVU010000642.1 strand - [line 1226901]
+2025-03-03 12:07:36,124 - DEBUG - Done with JACYVU010000642.1- [line 1226910]
+2025-03-03 12:07:36,124 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,124 - DEBUG - Seen 25292 genes until now
+2025-03-03 12:07:36,124 - DEBUG - Parsing Chromosome JACYVU010000653.1 strand + [line 1226911]
+2025-03-03 12:07:36,124 - DEBUG - Done with JACYVU010000653.1+ [line 1226938]
+2025-03-03 12:07:36,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,125 - DEBUG - Seen 25293 genes until now
+2025-03-03 12:07:36,125 - DEBUG - Parsing Chromosome JACYVU010000665.1 strand - [line 1226939]
+2025-03-03 12:07:36,125 - DEBUG - Done with JACYVU010000665.1- [line 1226951]
+2025-03-03 12:07:36,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,125 - DEBUG - Seen 25295 genes until now
+2025-03-03 12:07:36,125 - DEBUG - Parsing Chromosome JACYVU010000665.1 strand + [line 1226952]
+2025-03-03 12:07:36,125 - DEBUG - Done with JACYVU010000665.1+ [line 1226958]
+2025-03-03 12:07:36,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,125 - DEBUG - Seen 25296 genes until now
+2025-03-03 12:07:36,125 - DEBUG - Parsing Chromosome JACYVU010000706.1 strand - [line 1226959]
+2025-03-03 12:07:36,125 - DEBUG - Done with JACYVU010000706.1- [line 1226974]
+2025-03-03 12:07:36,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,125 - DEBUG - Seen 25299 genes until now
+2025-03-03 12:07:36,125 - DEBUG - Parsing Chromosome JACYVU010000706.1 strand + [line 1226975]
+2025-03-03 12:07:36,125 - DEBUG - Done with JACYVU010000706.1+ [line 1226992]
+2025-03-03 12:07:36,125 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,125 - DEBUG - Seen 25301 genes until now
+2025-03-03 12:07:36,125 - DEBUG - Parsing Chromosome JACYVU010000731.1 strand - [line 1226993]
+2025-03-03 12:07:36,126 - DEBUG - Done with JACYVU010000731.1- [line 1227014]
+2025-03-03 12:07:36,126 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,126 - DEBUG - Seen 25303 genes until now
+2025-03-03 12:07:36,126 - DEBUG - Parsing Chromosome JACYVU010000731.1 strand + [line 1227015]
+2025-03-03 12:07:36,126 - DEBUG - Done with JACYVU010000731.1+ [line 1227018]
+2025-03-03 12:07:36,126 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,126 - DEBUG - Seen 25304 genes until now
+2025-03-03 12:07:36,126 - DEBUG - Parsing Chromosome JACYVU010000732.1 strand - [line 1227019]
+2025-03-03 12:07:36,126 - DEBUG - Done with JACYVU010000732.1- [line 1227025]
+2025-03-03 12:07:36,126 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,126 - DEBUG - Seen 25305 genes until now
+2025-03-03 12:07:36,126 - DEBUG - Parsing Chromosome JACYVU010000738.1 strand - [line 1227026]
+2025-03-03 12:07:36,126 - DEBUG - Done with JACYVU010000738.1- [line 1227067]
+2025-03-03 12:07:36,126 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,126 - DEBUG - Seen 25307 genes until now
+2025-03-03 12:07:36,126 - DEBUG - Parsing Chromosome JACYVU010000738.1 strand + [line 1227068]
+2025-03-03 12:07:36,126 - DEBUG - Done with JACYVU010000738.1+ [line 1227098]
+2025-03-03 12:07:36,127 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,127 - DEBUG - Seen 25310 genes until now
+2025-03-03 12:07:36,127 - DEBUG - Parsing Chromosome JACYVU010000744.1 strand + [line 1227099]
+2025-03-03 12:07:36,127 - DEBUG - Done with JACYVU010000744.1+ [line 1227137]
+2025-03-03 12:07:36,127 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,127 - DEBUG - Seen 25312 genes until now
+2025-03-03 12:07:36,127 - DEBUG - Parsing Chromosome JACYVU010000754.1 strand - [line 1227138]
+2025-03-03 12:07:36,127 - DEBUG - Done with JACYVU010000754.1- [line 1227191]
+2025-03-03 12:07:36,127 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,127 - DEBUG - Seen 25321 genes until now
+2025-03-03 12:07:36,127 - DEBUG - Parsing Chromosome MT strand - [line 1227192]
+2025-03-03 12:07:36,127 - DEBUG - Done with MT- [line 1227197]
+2025-03-03 12:07:36,127 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,127 - DEBUG - Seen 25322 genes until now
+2025-03-03 12:07:36,127 - DEBUG - Parsing Chromosome MT strand + [line 1227198]
+2025-03-03 12:07:36,128 - DEBUG - Done with MT+ [line 1227265]
+2025-03-03 12:07:36,128 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,128 - DEBUG - Seen 25334 genes until now
+2025-03-03 12:07:36,128 - DEBUG - Parsing Chromosome MU150189.1 strand - [line 1227266]
+2025-03-03 12:07:36,128 - DEBUG - Done with MU150189.1- [line 1227285]
+2025-03-03 12:07:36,128 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,128 - DEBUG - Seen 25337 genes until now
+2025-03-03 12:07:36,128 - DEBUG - Parsing Chromosome MU150189.1 strand + [line 1227286]
+2025-03-03 12:07:36,128 - DEBUG - Done with MU150189.1+ [line 1227342]
+2025-03-03 12:07:36,128 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,128 - DEBUG - Seen 25341 genes until now
+2025-03-03 12:07:36,128 - DEBUG - Parsing Chromosome MU150193.1 strand + [line 1227343]
+2025-03-03 12:07:36,129 - DEBUG - Done with MU150193.1+ [line 1227380]
+2025-03-03 12:07:36,129 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,129 - DEBUG - Seen 25342 genes until now
+2025-03-03 12:07:36,129 - DEBUG - Parsing Chromosome MU150196.1 strand + [line 1227381]
+2025-03-03 12:07:36,129 - DEBUG - Done with MU150196.1+ [line 1227385]
+2025-03-03 12:07:36,129 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,129 - DEBUG - Seen 25343 genes until now
+2025-03-03 12:07:36,129 - DEBUG - Parsing Chromosome MU150200.1 strand - [line 1227386]
+2025-03-03 12:07:36,129 - DEBUG - Done with MU150200.1- [line 1227394]
+2025-03-03 12:07:36,129 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,129 - DEBUG - Seen 25345 genes until now
+2025-03-03 12:07:36,129 - DEBUG - Parsing Chromosome MU150200.1 strand + [line 1227395]
+2025-03-03 12:07:36,129 - DEBUG - Done with MU150200.1+ [line 1227444]
+2025-03-03 12:07:36,129 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,129 - DEBUG - Seen 25349 genes until now
+2025-03-03 12:07:36,129 - DEBUG - Parsing Chromosome MU150203.1 strand - [line 1227445]
+2025-03-03 12:07:36,129 - DEBUG - Done with MU150203.1- [line 1227449]
+2025-03-03 12:07:36,130 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,130 - DEBUG - Seen 25350 genes until now
+2025-03-03 12:07:36,130 - DEBUG - Parsing Chromosome MU150203.1 strand + [line 1227450]
+2025-03-03 12:07:36,130 - DEBUG - Done with MU150203.1+ [line 1227463]
+2025-03-03 12:07:36,130 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,130 - DEBUG - Seen 25351 genes until now
+2025-03-03 12:07:36,130 - DEBUG - Parsing Chromosome MU150220.1 strand - [line 1227464]
+2025-03-03 12:07:36,130 - DEBUG - Done with MU150220.1- [line 1227474]
+2025-03-03 12:07:36,130 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,130 - DEBUG - Seen 25352 genes until now
+2025-03-03 12:07:36,130 - DEBUG - Parsing Chromosome MU150220.1 strand + [line 1227475]
+2025-03-03 12:07:36,130 - DEBUG - Done with MU150220.1+ [line 1227502]
+2025-03-03 12:07:36,130 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,130 - DEBUG - Seen 25355 genes until now
+2025-03-03 12:07:36,130 - DEBUG - Parsing Chromosome MU150222.1 strand + [line 1227503]
+2025-03-03 12:07:36,130 - DEBUG - Done with MU150222.1+ [line 1227535]
+2025-03-03 12:07:36,130 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,131 - DEBUG - Seen 25357 genes until now
+2025-03-03 12:07:36,131 - DEBUG - Parsing Chromosome MU150223.1 strand - [line 1227536]
+2025-03-03 12:07:36,131 - DEBUG - Done with MU150223.1- [line 1227545]
+2025-03-03 12:07:36,131 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,131 - DEBUG - Seen 25358 genes until now
+2025-03-03 12:07:36,131 - DEBUG - Parsing Chromosome X strand - [line 1227546]
+2025-03-03 12:07:36,210 - DEBUG - Done with X- [line 1249804]
+2025-03-03 12:07:36,210 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,211 - DEBUG - Seen 25928 genes until now
+2025-03-03 12:07:36,211 - DEBUG - Parsing Chromosome X strand + [line 1249805]
+2025-03-03 12:07:36,286 - DEBUG - Done with X+ [line 1271286]
+2025-03-03 12:07:36,286 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,287 - DEBUG - Seen 26478 genes until now
+2025-03-03 12:07:36,287 - DEBUG - Parsing Chromosome Y strand - [line 1271287]
+2025-03-03 12:07:36,289 - DEBUG - Done with Y- [line 1271810]
+2025-03-03 12:07:36,289 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,290 - DEBUG - Seen 26486 genes until now
+2025-03-03 12:07:36,290 - DEBUG - Parsing Chromosome Y strand + [line 1271811]
+2025-03-03 12:07:36,291 - DEBUG - Assigning indexes to genes
+2025-03-03 12:07:36,291 - DEBUG - Done with Y+ [line 1272163]
+2025-03-03 12:07:36,291 - DEBUG - Fixing corner cases of transcript models containg intron longer than 1000Kbp
+2025-03-03 12:07:36,846 - DEBUG - Generated 994215 features corresponding to 50935 transcript models from /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger-9.0.1/reference_genomes/mRatBN7_2/genes/genes.gtf
+2025-03-03 12:07:36,857 - INFO - Scan /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE8/outs/possorted_genome_bam.bam to validate intron intervals
+2025-03-03 12:07:38,001 - DEBUG - Reading /groups/mpistaff/Cranio_Lab/Louk_Seton/4_species_project/cellranger_related/cellranger_output/sc_rnaseq/rat/mRatBN7.2/RE8/outs/possorted_genome_bam.bam
+2025-03-03 12:07:38,089 - DEBUG - Read first 0 million reads
+2025-03-03 12:07:38,090 - DEBUG - Marking up chromosome 1
+2025-03-03 12:09:20,655 - DEBUG - Read first 10 million reads
+2025-03-03 12:10:59,824 - DEBUG - Read first 20 million reads
