@@ -1,8 +1,9 @@
 #!/bin/bash
 cd notebooks
 for filename in *.ipynb; do
-	jupyter nbconvert $filename --to webpdf --allow-chromium-download \
-        --output ../notebooks_github/$filename
+    pandoc --listings -H listings-setup.tex -V geometry:paperwidth=8in -V geometry:paperheight=200in -V geometry:margin=1in \
+    --to pdf --from ipynb -o ../notebooks_github/$filename.pdf $filename
+
 	jupyter nbconvert $filename --to notebook \
 		--ClearOutputPreprocessor.enabled=True --output ../notebooks_github/$filename
 done
