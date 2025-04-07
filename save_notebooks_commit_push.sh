@@ -9,14 +9,16 @@ for filename in *.ipynb; do
 done
 
 for dir in */; do
-	for filename in $dir/*.ipynb; do
-		mkdir -p ../notebooks_github/$dir
-		pandoc --listings -H listings-setup.tex -V geometry:paperwidth=8in -V geometry:paperheight=200in -V geometry:margin=1in \
-		--to pdf --from ipynb -o ../notebooks_github/$dir/$filename.pdf $filename
+	cd $dir
+	for filename in *.ipynb; do
+		mkdir -p ../../notebooks_github/$dir
+		pandoc --listings -H ../listings-setup.tex -V geometry:paperwidth=8in -V geometry:paperheight=200in -V geometry:margin=1in \
+		--to pdf --from ipynb -o ../../notebooks_github/$dir/$filename.pdf $filename
 
 		jupyter nbconvert $filename --to notebook \
-			--ClearOutputPreprocessor.enabled=True --output ../notebooks_github/$dir/$filename
+			--ClearOutputPreprocessor.enabled=True --output ../../notebooks_github/$dir/$filename
 	done
+	cd ..
 done
 cd ..
 git add -A
