@@ -1,4 +1,8 @@
 #!/bin/bash
+#to do
+#automatic page length to fit the entire document in a single page
+#fix handling of code output for anndata objects, these currently produce a latex error
+#text wrapping is still not working properly and I don't know why
 cd notebooks
 for filename in *.ipynb; do
     pandoc --listings -H listings-setup.tex -V geometry:paperwidth=8in -V geometry:paperheight=200in -V geometry:margin=1in \
