@@ -1,0 +1,3 @@
+slurmstepd: error: Job 9003264 exceeded memory limit (127721040 > 125829120), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 9003264 ON fastnode05 CANCELLED AT 2025-05-28T09:46:36 ***
